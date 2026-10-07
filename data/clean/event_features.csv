@@ -1,0 +1,1970 @@
+date,days_until_event,days_since_event,event_magnitude,nearest_event_name,event_type
+2011-01-29,8,14,5,SuperBowl,Sporting
+2011-01-30,7,14,5,SuperBowl,Sporting
+2011-01-31,6,14,5,SuperBowl,Sporting
+2011-02-01,5,14,5,SuperBowl,Sporting
+2011-02-02,4,14,5,SuperBowl,Sporting
+2011-02-03,3,14,5,SuperBowl,Sporting
+2011-02-04,2,14,5,SuperBowl,Sporting
+2011-02-05,1,14,5,SuperBowl,Sporting
+2011-02-06,0,0,5,SuperBowl,Sporting
+2011-02-07,7,1,5,SuperBowl,Sporting
+2011-02-08,6,2,5,SuperBowl,Sporting
+2011-02-09,5,3,5,SuperBowl,Sporting
+2011-02-10,4,4,2,ValentinesDay,Cultural
+2011-02-11,3,5,2,ValentinesDay,Cultural
+2011-02-12,2,6,2,ValentinesDay,Cultural
+2011-02-13,1,7,2,ValentinesDay,Cultural
+2011-02-14,0,0,2,ValentinesDay,Cultural
+2011-02-15,6,1,2,ValentinesDay,Cultural
+2011-02-16,5,2,2,ValentinesDay,Cultural
+2011-02-17,4,3,2,ValentinesDay,Cultural
+2011-02-18,3,4,2,PresidentsDay,National
+2011-02-19,2,5,2,PresidentsDay,National
+2011-02-20,1,6,2,PresidentsDay,National
+2011-02-21,0,0,2,PresidentsDay,National
+2011-02-22,14,1,2,PresidentsDay,National
+2011-02-23,14,2,2,PresidentsDay,National
+2011-02-24,13,3,2,PresidentsDay,National
+2011-02-25,12,4,2,PresidentsDay,National
+2011-02-26,11,5,2,PresidentsDay,National
+2011-02-27,10,6,2,PresidentsDay,National
+2011-02-28,9,7,2,PresidentsDay,National
+2011-03-01,8,8,2,LentStart,Religious
+2011-03-02,7,9,2,LentStart,Religious
+2011-03-03,6,10,2,LentStart,Religious
+2011-03-04,5,11,2,LentStart,Religious
+2011-03-05,4,12,2,LentStart,Religious
+2011-03-06,3,13,2,LentStart,Religious
+2011-03-07,2,14,2,LentStart,Religious
+2011-03-08,1,14,2,LentStart,Religious
+2011-03-09,0,0,2,LentStart,Religious
+2011-03-10,6,1,2,LentStart,Religious
+2011-03-11,5,2,2,LentStart,Religious
+2011-03-12,4,3,2,LentStart,Religious
+2011-03-13,3,4,2,LentWeek2,Religious
+2011-03-14,2,5,2,LentWeek2,Religious
+2011-03-15,1,6,2,LentWeek2,Religious
+2011-03-16,0,0,2,LentWeek2,Religious
+2011-03-17,0,0,3,StPatricksDay,Cultural
+2011-03-18,2,1,3,StPatricksDay,Cultural
+2011-03-19,1,2,1,Purim End,Religious
+2011-03-20,0,0,1,Purim End,Religious
+2011-03-21,14,1,1,Purim End,Religious
+2011-03-22,14,2,1,Purim End,Religious
+2011-03-23,14,3,1,Purim End,Religious
+2011-03-24,14,4,1,Purim End,Religious
+2011-03-25,14,5,1,Purim End,Religious
+2011-03-26,14,6,1,Purim End,Religious
+2011-03-27,14,7,1,Purim End,Religious
+2011-03-28,14,8,1,Purim End,Religious
+2011-03-29,14,9,1,Purim End,Religious
+2011-03-30,14,10,1,Purim End,Religious
+2011-03-31,14,11,1,Purim End,Religious
+2011-04-01,14,12,1,Purim End,Religious
+2011-04-02,14,13,1,Purim End,Religious
+2011-04-03,14,14,3,Easter,Cultural
+2011-04-04,14,14,3,Easter,Cultural
+2011-04-05,14,14,3,Easter,Cultural
+2011-04-06,14,14,3,Easter,Cultural
+2011-04-07,14,14,3,Easter,Cultural
+2011-04-08,14,14,3,Easter,Cultural
+2011-04-09,14,14,3,Easter,Cultural
+2011-04-10,14,14,3,Easter,Cultural
+2011-04-11,13,14,3,Easter,Cultural
+2011-04-12,12,14,3,Easter,Cultural
+2011-04-13,11,14,3,Easter,Cultural
+2011-04-14,10,14,3,Easter,Cultural
+2011-04-15,9,14,3,Easter,Cultural
+2011-04-16,8,14,3,Easter,Cultural
+2011-04-17,7,14,3,Easter,Cultural
+2011-04-18,6,14,3,Easter,Cultural
+2011-04-19,5,14,3,Easter,Cultural
+2011-04-20,4,14,3,Easter,Cultural
+2011-04-21,3,14,3,Easter,Cultural
+2011-04-22,2,14,3,Easter,Cultural
+2011-04-23,1,14,3,Easter,Cultural
+2011-04-24,0,0,3,Easter,Cultural
+2011-04-25,1,1,2,Pesach End,Religious
+2011-04-26,0,0,2,Pesach End,Religious
+2011-04-27,8,1,2,Pesach End,Religious
+2011-04-28,7,2,2,Pesach End,Religious
+2011-04-29,6,3,2,Pesach End,Religious
+2011-04-30,5,4,2,Pesach End,Religious
+2011-05-01,4,5,2,Cinco De Mayo,Cultural
+2011-05-02,3,6,2,Cinco De Mayo,Cultural
+2011-05-03,2,7,2,Cinco De Mayo,Cultural
+2011-05-04,1,8,2,Cinco De Mayo,Cultural
+2011-05-05,0,0,2,Cinco De Mayo,Cultural
+2011-05-06,2,1,2,Cinco De Mayo,Cultural
+2011-05-07,1,2,3,Mother's day,Cultural
+2011-05-08,0,0,3,Mother's day,Cultural
+2011-05-09,14,1,3,Mother's day,Cultural
+2011-05-10,14,2,3,Mother's day,Cultural
+2011-05-11,14,3,3,Mother's day,Cultural
+2011-05-12,14,4,3,Mother's day,Cultural
+2011-05-13,14,5,3,Mother's day,Cultural
+2011-05-14,14,6,3,Mother's day,Cultural
+2011-05-15,14,7,3,Mother's day,Cultural
+2011-05-16,14,8,3,Mother's day,Cultural
+2011-05-17,13,9,3,Mother's day,Cultural
+2011-05-18,12,10,3,Mother's day,Cultural
+2011-05-19,11,11,4,MemorialDay,National
+2011-05-20,10,12,4,MemorialDay,National
+2011-05-21,9,13,4,MemorialDay,National
+2011-05-22,8,14,4,MemorialDay,National
+2011-05-23,7,14,4,MemorialDay,National
+2011-05-24,6,14,4,MemorialDay,National
+2011-05-25,5,14,4,MemorialDay,National
+2011-05-26,4,14,4,MemorialDay,National
+2011-05-27,3,14,4,MemorialDay,National
+2011-05-28,2,14,4,MemorialDay,National
+2011-05-29,1,14,4,MemorialDay,National
+2011-05-30,0,0,4,MemorialDay,National
+2011-05-31,0,0,3,NBAFinalsStart,Sporting
+2011-06-01,11,1,3,NBAFinalsStart,Sporting
+2011-06-02,10,2,3,NBAFinalsStart,Sporting
+2011-06-03,9,3,3,NBAFinalsStart,Sporting
+2011-06-04,8,4,3,NBAFinalsStart,Sporting
+2011-06-05,7,5,3,NBAFinalsStart,Sporting
+2011-06-06,6,6,3,NBAFinalsEnd,Sporting
+2011-06-07,5,7,3,NBAFinalsEnd,Sporting
+2011-06-08,4,8,3,NBAFinalsEnd,Sporting
+2011-06-09,3,9,3,NBAFinalsEnd,Sporting
+2011-06-10,2,10,3,NBAFinalsEnd,Sporting
+2011-06-11,1,11,3,NBAFinalsEnd,Sporting
+2011-06-12,0,0,3,NBAFinalsEnd,Sporting
+2011-06-13,6,1,3,NBAFinalsEnd,Sporting
+2011-06-14,5,2,3,NBAFinalsEnd,Sporting
+2011-06-15,4,3,3,NBAFinalsEnd,Sporting
+2011-06-16,3,4,3,Father's day,Cultural
+2011-06-17,2,5,3,Father's day,Cultural
+2011-06-18,1,6,3,Father's day,Cultural
+2011-06-19,0,0,3,Father's day,Cultural
+2011-06-20,14,1,3,Father's day,Cultural
+2011-06-21,13,2,3,Father's day,Cultural
+2011-06-22,12,3,3,Father's day,Cultural
+2011-06-23,11,4,3,Father's day,Cultural
+2011-06-24,10,5,3,Father's day,Cultural
+2011-06-25,9,6,3,Father's day,Cultural
+2011-06-26,8,7,3,Father's day,Cultural
+2011-06-27,7,8,4,IndependenceDay,National
+2011-06-28,6,9,4,IndependenceDay,National
+2011-06-29,5,10,4,IndependenceDay,National
+2011-06-30,4,11,4,IndependenceDay,National
+2011-07-01,3,12,4,IndependenceDay,National
+2011-07-02,2,13,4,IndependenceDay,National
+2011-07-03,1,14,4,IndependenceDay,National
+2011-07-04,0,0,4,IndependenceDay,National
+2011-07-05,14,1,4,IndependenceDay,National
+2011-07-06,14,2,4,IndependenceDay,National
+2011-07-07,14,3,4,IndependenceDay,National
+2011-07-08,14,4,4,IndependenceDay,National
+2011-07-09,14,5,4,IndependenceDay,National
+2011-07-10,14,6,4,IndependenceDay,National
+2011-07-11,14,7,4,IndependenceDay,National
+2011-07-12,14,8,4,IndependenceDay,National
+2011-07-13,14,9,4,IndependenceDay,National
+2011-07-14,14,10,4,IndependenceDay,National
+2011-07-15,14,11,4,IndependenceDay,National
+2011-07-16,14,12,4,IndependenceDay,National
+2011-07-17,14,13,4,IndependenceDay,National
+2011-07-18,14,14,2,Ramadan starts,Religious
+2011-07-19,13,14,2,Ramadan starts,Religious
+2011-07-20,12,14,2,Ramadan starts,Religious
+2011-07-21,11,14,2,Ramadan starts,Religious
+2011-07-22,10,14,2,Ramadan starts,Religious
+2011-07-23,9,14,2,Ramadan starts,Religious
+2011-07-24,8,14,2,Ramadan starts,Religious
+2011-07-25,7,14,2,Ramadan starts,Religious
+2011-07-26,6,14,2,Ramadan starts,Religious
+2011-07-27,5,14,2,Ramadan starts,Religious
+2011-07-28,4,14,2,Ramadan starts,Religious
+2011-07-29,3,14,2,Ramadan starts,Religious
+2011-07-30,2,14,2,Ramadan starts,Religious
+2011-07-31,1,14,2,Ramadan starts,Religious
+2011-08-01,0,0,2,Ramadan starts,Religious
+2011-08-02,14,1,2,Ramadan starts,Religious
+2011-08-03,14,2,2,Ramadan starts,Religious
+2011-08-04,14,3,2,Ramadan starts,Religious
+2011-08-05,14,4,2,Ramadan starts,Religious
+2011-08-06,14,5,2,Ramadan starts,Religious
+2011-08-07,14,6,2,Ramadan starts,Religious
+2011-08-08,14,7,2,Ramadan starts,Religious
+2011-08-09,14,8,2,Ramadan starts,Religious
+2011-08-10,14,9,2,Ramadan starts,Religious
+2011-08-11,14,10,2,Ramadan starts,Religious
+2011-08-12,14,11,2,Ramadan starts,Religious
+2011-08-13,14,12,2,Ramadan starts,Religious
+2011-08-14,14,13,2,Ramadan starts,Religious
+2011-08-15,14,14,2,Eid al-Fitr,Religious
+2011-08-16,14,14,2,Eid al-Fitr,Religious
+2011-08-17,14,14,2,Eid al-Fitr,Religious
+2011-08-18,13,14,2,Eid al-Fitr,Religious
+2011-08-19,12,14,2,Eid al-Fitr,Religious
+2011-08-20,11,14,2,Eid al-Fitr,Religious
+2011-08-21,10,14,2,Eid al-Fitr,Religious
+2011-08-22,9,14,2,Eid al-Fitr,Religious
+2011-08-23,8,14,2,Eid al-Fitr,Religious
+2011-08-24,7,14,2,Eid al-Fitr,Religious
+2011-08-25,6,14,2,Eid al-Fitr,Religious
+2011-08-26,5,14,2,Eid al-Fitr,Religious
+2011-08-27,4,14,2,Eid al-Fitr,Religious
+2011-08-28,3,14,2,Eid al-Fitr,Religious
+2011-08-29,2,14,2,Eid al-Fitr,Religious
+2011-08-30,1,14,2,Eid al-Fitr,Religious
+2011-08-31,0,0,2,Eid al-Fitr,Religious
+2011-09-01,4,1,2,Eid al-Fitr,Religious
+2011-09-02,3,2,2,Eid al-Fitr,Religious
+2011-09-03,2,3,4,LaborDay,National
+2011-09-04,1,4,4,LaborDay,National
+2011-09-05,0,0,4,LaborDay,National
+2011-09-06,14,1,4,LaborDay,National
+2011-09-07,14,2,4,LaborDay,National
+2011-09-08,14,3,4,LaborDay,National
+2011-09-09,14,4,4,LaborDay,National
+2011-09-10,14,5,4,LaborDay,National
+2011-09-11,14,6,4,LaborDay,National
+2011-09-12,14,7,4,LaborDay,National
+2011-09-13,14,8,4,LaborDay,National
+2011-09-14,14,9,4,LaborDay,National
+2011-09-15,14,10,4,LaborDay,National
+2011-09-16,14,11,4,LaborDay,National
+2011-09-17,14,12,4,LaborDay,National
+2011-09-18,14,13,4,LaborDay,National
+2011-09-19,14,14,1,ColumbusDay,National
+2011-09-20,14,14,1,ColumbusDay,National
+2011-09-21,14,14,1,ColumbusDay,National
+2011-09-22,14,14,1,ColumbusDay,National
+2011-09-23,14,14,1,ColumbusDay,National
+2011-09-24,14,14,1,ColumbusDay,National
+2011-09-25,14,14,1,ColumbusDay,National
+2011-09-26,14,14,1,ColumbusDay,National
+2011-09-27,13,14,1,ColumbusDay,National
+2011-09-28,12,14,1,ColumbusDay,National
+2011-09-29,11,14,1,ColumbusDay,National
+2011-09-30,10,14,1,ColumbusDay,National
+2011-10-01,9,14,1,ColumbusDay,National
+2011-10-02,8,14,1,ColumbusDay,National
+2011-10-03,7,14,1,ColumbusDay,National
+2011-10-04,6,14,1,ColumbusDay,National
+2011-10-05,5,14,1,ColumbusDay,National
+2011-10-06,4,14,1,ColumbusDay,National
+2011-10-07,3,14,1,ColumbusDay,National
+2011-10-08,2,14,1,ColumbusDay,National
+2011-10-09,1,14,1,ColumbusDay,National
+2011-10-10,0,0,1,ColumbusDay,National
+2011-10-11,14,1,1,ColumbusDay,National
+2011-10-12,14,2,1,ColumbusDay,National
+2011-10-13,14,3,1,ColumbusDay,National
+2011-10-14,14,4,1,ColumbusDay,National
+2011-10-15,14,5,1,ColumbusDay,National
+2011-10-16,14,6,1,ColumbusDay,National
+2011-10-17,14,7,1,ColumbusDay,National
+2011-10-18,13,8,1,ColumbusDay,National
+2011-10-19,12,9,1,ColumbusDay,National
+2011-10-20,11,10,1,ColumbusDay,National
+2011-10-21,10,11,3,Halloween,Cultural
+2011-10-22,9,12,3,Halloween,Cultural
+2011-10-23,8,13,3,Halloween,Cultural
+2011-10-24,7,14,3,Halloween,Cultural
+2011-10-25,6,14,3,Halloween,Cultural
+2011-10-26,5,14,3,Halloween,Cultural
+2011-10-27,4,14,3,Halloween,Cultural
+2011-10-28,3,14,3,Halloween,Cultural
+2011-10-29,2,14,3,Halloween,Cultural
+2011-10-30,1,14,3,Halloween,Cultural
+2011-10-31,0,0,3,Halloween,Cultural
+2011-11-01,6,1,3,Halloween,Cultural
+2011-11-02,5,2,3,Halloween,Cultural
+2011-11-03,4,3,3,Halloween,Cultural
+2011-11-04,3,4,2,EidAlAdha,Religious
+2011-11-05,2,5,2,EidAlAdha,Religious
+2011-11-06,1,6,2,EidAlAdha,Religious
+2011-11-07,0,0,2,EidAlAdha,Religious
+2011-11-08,3,1,2,EidAlAdha,Religious
+2011-11-09,2,2,1,VeteransDay,National
+2011-11-10,1,3,1,VeteransDay,National
+2011-11-11,0,0,1,VeteransDay,National
+2011-11-12,12,1,1,VeteransDay,National
+2011-11-13,11,2,1,VeteransDay,National
+2011-11-14,10,3,1,VeteransDay,National
+2011-11-15,9,4,1,VeteransDay,National
+2011-11-16,8,5,1,VeteransDay,National
+2011-11-17,7,6,1,VeteransDay,National
+2011-11-18,6,7,5,Thanksgiving,National
+2011-11-19,5,8,5,Thanksgiving,National
+2011-11-20,4,9,5,Thanksgiving,National
+2011-11-21,3,10,5,Thanksgiving,National
+2011-11-22,2,11,5,Thanksgiving,National
+2011-11-23,1,12,5,Thanksgiving,National
+2011-11-24,0,0,5,Thanksgiving,National
+2011-11-25,14,1,5,Thanksgiving,National
+2011-11-26,14,2,5,Thanksgiving,National
+2011-11-27,14,3,5,Thanksgiving,National
+2011-11-28,14,4,5,Thanksgiving,National
+2011-11-29,14,5,5,Thanksgiving,National
+2011-11-30,14,6,5,Thanksgiving,National
+2011-12-01,14,7,5,Thanksgiving,National
+2011-12-02,14,8,5,Thanksgiving,National
+2011-12-03,14,9,5,Thanksgiving,National
+2011-12-04,14,10,5,Thanksgiving,National
+2011-12-05,14,11,5,Thanksgiving,National
+2011-12-06,14,12,5,Thanksgiving,National
+2011-12-07,14,13,5,Thanksgiving,National
+2011-12-08,14,14,5,Christmas,National
+2011-12-09,14,14,5,Christmas,National
+2011-12-10,14,14,5,Christmas,National
+2011-12-11,14,14,5,Christmas,National
+2011-12-12,13,14,5,Christmas,National
+2011-12-13,12,14,5,Christmas,National
+2011-12-14,11,14,5,Christmas,National
+2011-12-15,10,14,5,Christmas,National
+2011-12-16,9,14,5,Christmas,National
+2011-12-17,8,14,5,Christmas,National
+2011-12-18,7,14,5,Christmas,National
+2011-12-19,6,14,5,Christmas,National
+2011-12-20,5,14,5,Christmas,National
+2011-12-21,4,14,5,Christmas,National
+2011-12-22,3,14,5,Christmas,National
+2011-12-23,2,14,5,Christmas,National
+2011-12-24,1,14,5,Christmas,National
+2011-12-25,0,0,5,Christmas,National
+2011-12-26,2,1,5,Christmas,National
+2011-12-27,1,2,1,Chanukah End,Religious
+2011-12-28,0,0,1,Chanukah End,Religious
+2011-12-29,3,1,1,Chanukah End,Religious
+2011-12-30,2,2,4,NewYear,National
+2011-12-31,1,3,4,NewYear,National
+2012-01-01,0,0,4,NewYear,National
+2012-01-02,5,1,4,NewYear,National
+2012-01-03,4,2,4,NewYear,National
+2012-01-04,3,3,1,OrthodoxChristmas,Religious
+2012-01-05,2,4,1,OrthodoxChristmas,Religious
+2012-01-06,1,5,1,OrthodoxChristmas,Religious
+2012-01-07,0,0,1,OrthodoxChristmas,Religious
+2012-01-08,8,1,1,OrthodoxChristmas,Religious
+2012-01-09,7,2,1,OrthodoxChristmas,Religious
+2012-01-10,6,3,1,OrthodoxChristmas,Religious
+2012-01-11,5,4,1,OrthodoxChristmas,Religious
+2012-01-12,4,5,1,MartinLutherKingDay,National
+2012-01-13,3,6,1,MartinLutherKingDay,National
+2012-01-14,2,7,1,MartinLutherKingDay,National
+2012-01-15,1,8,1,MartinLutherKingDay,National
+2012-01-16,0,0,1,MartinLutherKingDay,National
+2012-01-17,14,1,1,MartinLutherKingDay,National
+2012-01-18,14,2,1,MartinLutherKingDay,National
+2012-01-19,14,3,1,MartinLutherKingDay,National
+2012-01-20,14,4,1,MartinLutherKingDay,National
+2012-01-21,14,5,1,MartinLutherKingDay,National
+2012-01-22,14,6,1,MartinLutherKingDay,National
+2012-01-23,13,7,1,MartinLutherKingDay,National
+2012-01-24,12,8,1,MartinLutherKingDay,National
+2012-01-25,11,9,1,MartinLutherKingDay,National
+2012-01-26,10,10,5,SuperBowl,Sporting
+2012-01-27,9,11,5,SuperBowl,Sporting
+2012-01-28,8,12,5,SuperBowl,Sporting
+2012-01-29,7,13,5,SuperBowl,Sporting
+2012-01-30,6,14,5,SuperBowl,Sporting
+2012-01-31,5,14,5,SuperBowl,Sporting
+2012-02-01,4,14,5,SuperBowl,Sporting
+2012-02-02,3,14,5,SuperBowl,Sporting
+2012-02-03,2,14,5,SuperBowl,Sporting
+2012-02-04,1,14,5,SuperBowl,Sporting
+2012-02-05,0,0,5,SuperBowl,Sporting
+2012-02-06,8,1,5,SuperBowl,Sporting
+2012-02-07,7,2,5,SuperBowl,Sporting
+2012-02-08,6,3,5,SuperBowl,Sporting
+2012-02-09,5,4,5,SuperBowl,Sporting
+2012-02-10,4,5,2,ValentinesDay,Cultural
+2012-02-11,3,6,2,ValentinesDay,Cultural
+2012-02-12,2,7,2,ValentinesDay,Cultural
+2012-02-13,1,8,2,ValentinesDay,Cultural
+2012-02-14,0,0,2,ValentinesDay,Cultural
+2012-02-15,5,1,2,ValentinesDay,Cultural
+2012-02-16,4,2,2,ValentinesDay,Cultural
+2012-02-17,3,3,2,PresidentsDay,National
+2012-02-18,2,4,2,PresidentsDay,National
+2012-02-19,1,5,2,PresidentsDay,National
+2012-02-20,0,0,2,PresidentsDay,National
+2012-02-21,1,1,2,LentStart,Religious
+2012-02-22,0,0,2,LentStart,Religious
+2012-02-23,6,1,2,LentStart,Religious
+2012-02-24,5,2,2,LentStart,Religious
+2012-02-25,4,3,2,LentStart,Religious
+2012-02-26,3,4,2,LentWeek2,Religious
+2012-02-27,2,5,2,LentWeek2,Religious
+2012-02-28,1,6,2,LentWeek2,Religious
+2012-02-29,0,0,2,LentWeek2,Religious
+2012-03-01,7,1,2,LentWeek2,Religious
+2012-03-02,6,2,2,LentWeek2,Religious
+2012-03-03,5,3,2,LentWeek2,Religious
+2012-03-04,4,4,1,Purim End,Religious
+2012-03-05,3,5,1,Purim End,Religious
+2012-03-06,2,6,1,Purim End,Religious
+2012-03-07,1,7,1,Purim End,Religious
+2012-03-08,0,0,1,Purim End,Religious
+2012-03-09,8,1,1,Purim End,Religious
+2012-03-10,7,2,1,Purim End,Religious
+2012-03-11,6,3,1,Purim End,Religious
+2012-03-12,5,4,1,Purim End,Religious
+2012-03-13,4,5,3,StPatricksDay,Cultural
+2012-03-14,3,6,3,StPatricksDay,Cultural
+2012-03-15,2,7,3,StPatricksDay,Cultural
+2012-03-16,1,8,3,StPatricksDay,Cultural
+2012-03-17,0,0,3,StPatricksDay,Cultural
+2012-03-18,14,1,3,StPatricksDay,Cultural
+2012-03-19,14,2,3,StPatricksDay,Cultural
+2012-03-20,14,3,3,StPatricksDay,Cultural
+2012-03-21,14,4,3,StPatricksDay,Cultural
+2012-03-22,14,5,3,StPatricksDay,Cultural
+2012-03-23,14,6,3,StPatricksDay,Cultural
+2012-03-24,14,7,3,StPatricksDay,Cultural
+2012-03-25,14,8,3,StPatricksDay,Cultural
+2012-03-26,13,9,3,StPatricksDay,Cultural
+2012-03-27,12,10,3,StPatricksDay,Cultural
+2012-03-28,11,11,3,Easter,Cultural
+2012-03-29,10,12,3,Easter,Cultural
+2012-03-30,9,13,3,Easter,Cultural
+2012-03-31,8,14,3,Easter,Cultural
+2012-04-01,7,14,3,Easter,Cultural
+2012-04-02,6,14,3,Easter,Cultural
+2012-04-03,5,14,3,Easter,Cultural
+2012-04-04,4,14,3,Easter,Cultural
+2012-04-05,3,14,3,Easter,Cultural
+2012-04-06,2,14,3,Easter,Cultural
+2012-04-07,1,14,3,Easter,Cultural
+2012-04-08,0,0,3,Easter,Cultural
+2012-04-09,5,1,3,Easter,Cultural
+2012-04-10,4,2,3,Easter,Cultural
+2012-04-11,3,3,2,Pesach End,Religious
+2012-04-12,2,4,2,Pesach End,Religious
+2012-04-13,1,5,2,Pesach End,Religious
+2012-04-14,0,0,2,Pesach End,Religious
+2012-04-15,0,0,2,OrthodoxEaster,Religious
+2012-04-16,14,1,2,OrthodoxEaster,Religious
+2012-04-17,14,2,2,OrthodoxEaster,Religious
+2012-04-18,14,3,2,OrthodoxEaster,Religious
+2012-04-19,14,4,2,OrthodoxEaster,Religious
+2012-04-20,14,5,2,OrthodoxEaster,Religious
+2012-04-21,14,6,2,OrthodoxEaster,Religious
+2012-04-22,13,7,2,OrthodoxEaster,Religious
+2012-04-23,12,8,2,OrthodoxEaster,Religious
+2012-04-24,11,9,2,OrthodoxEaster,Religious
+2012-04-25,10,10,2,Cinco De Mayo,Cultural
+2012-04-26,9,11,2,Cinco De Mayo,Cultural
+2012-04-27,8,12,2,Cinco De Mayo,Cultural
+2012-04-28,7,13,2,Cinco De Mayo,Cultural
+2012-04-29,6,14,2,Cinco De Mayo,Cultural
+2012-04-30,5,14,2,Cinco De Mayo,Cultural
+2012-05-01,4,14,2,Cinco De Mayo,Cultural
+2012-05-02,3,14,2,Cinco De Mayo,Cultural
+2012-05-03,2,14,2,Cinco De Mayo,Cultural
+2012-05-04,1,14,2,Cinco De Mayo,Cultural
+2012-05-05,0,0,2,Cinco De Mayo,Cultural
+2012-05-06,7,1,2,Cinco De Mayo,Cultural
+2012-05-07,6,2,2,Cinco De Mayo,Cultural
+2012-05-08,5,3,2,Cinco De Mayo,Cultural
+2012-05-09,4,4,3,Mother's day,Cultural
+2012-05-10,3,5,3,Mother's day,Cultural
+2012-05-11,2,6,3,Mother's day,Cultural
+2012-05-12,1,7,3,Mother's day,Cultural
+2012-05-13,0,0,3,Mother's day,Cultural
+2012-05-14,14,1,3,Mother's day,Cultural
+2012-05-15,13,2,3,Mother's day,Cultural
+2012-05-16,12,3,3,Mother's day,Cultural
+2012-05-17,11,4,3,Mother's day,Cultural
+2012-05-18,10,5,3,Mother's day,Cultural
+2012-05-19,9,6,3,Mother's day,Cultural
+2012-05-20,8,7,3,Mother's day,Cultural
+2012-05-21,7,8,4,MemorialDay,National
+2012-05-22,6,9,4,MemorialDay,National
+2012-05-23,5,10,4,MemorialDay,National
+2012-05-24,4,11,4,MemorialDay,National
+2012-05-25,3,12,4,MemorialDay,National
+2012-05-26,2,13,4,MemorialDay,National
+2012-05-27,1,14,4,MemorialDay,National
+2012-05-28,0,0,4,MemorialDay,National
+2012-05-29,14,1,4,MemorialDay,National
+2012-05-30,13,2,4,MemorialDay,National
+2012-05-31,12,3,4,MemorialDay,National
+2012-06-01,11,4,4,MemorialDay,National
+2012-06-02,10,5,4,MemorialDay,National
+2012-06-03,9,6,4,MemorialDay,National
+2012-06-04,8,7,4,MemorialDay,National
+2012-06-05,7,8,3,NBAFinalsStart,Sporting
+2012-06-06,6,9,3,NBAFinalsStart,Sporting
+2012-06-07,5,10,3,NBAFinalsStart,Sporting
+2012-06-08,4,11,3,NBAFinalsStart,Sporting
+2012-06-09,3,12,3,NBAFinalsStart,Sporting
+2012-06-10,2,13,3,NBAFinalsStart,Sporting
+2012-06-11,1,14,3,NBAFinalsStart,Sporting
+2012-06-12,0,0,3,NBAFinalsStart,Sporting
+2012-06-13,4,1,3,NBAFinalsStart,Sporting
+2012-06-14,3,2,3,NBAFinalsStart,Sporting
+2012-06-15,2,3,3,Father's day,Cultural
+2012-06-16,1,4,3,Father's day,Cultural
+2012-06-17,0,0,3,Father's day,Cultural
+2012-06-18,3,1,3,Father's day,Cultural
+2012-06-19,2,2,3,NBAFinalsEnd,Sporting
+2012-06-20,1,3,3,NBAFinalsEnd,Sporting
+2012-06-21,0,0,3,NBAFinalsEnd,Sporting
+2012-06-22,12,1,3,NBAFinalsEnd,Sporting
+2012-06-23,11,2,3,NBAFinalsEnd,Sporting
+2012-06-24,10,3,3,NBAFinalsEnd,Sporting
+2012-06-25,9,4,3,NBAFinalsEnd,Sporting
+2012-06-26,8,5,3,NBAFinalsEnd,Sporting
+2012-06-27,7,6,3,NBAFinalsEnd,Sporting
+2012-06-28,6,7,4,IndependenceDay,National
+2012-06-29,5,8,4,IndependenceDay,National
+2012-06-30,4,9,4,IndependenceDay,National
+2012-07-01,3,10,4,IndependenceDay,National
+2012-07-02,2,11,4,IndependenceDay,National
+2012-07-03,1,12,4,IndependenceDay,National
+2012-07-04,0,0,4,IndependenceDay,National
+2012-07-05,14,1,4,IndependenceDay,National
+2012-07-06,14,2,4,IndependenceDay,National
+2012-07-07,13,3,4,IndependenceDay,National
+2012-07-08,12,4,4,IndependenceDay,National
+2012-07-09,11,5,4,IndependenceDay,National
+2012-07-10,10,6,4,IndependenceDay,National
+2012-07-11,9,7,4,IndependenceDay,National
+2012-07-12,8,8,2,Ramadan starts,Religious
+2012-07-13,7,9,2,Ramadan starts,Religious
+2012-07-14,6,10,2,Ramadan starts,Religious
+2012-07-15,5,11,2,Ramadan starts,Religious
+2012-07-16,4,12,2,Ramadan starts,Religious
+2012-07-17,3,13,2,Ramadan starts,Religious
+2012-07-18,2,14,2,Ramadan starts,Religious
+2012-07-19,1,14,2,Ramadan starts,Religious
+2012-07-20,0,0,2,Ramadan starts,Religious
+2012-07-21,14,1,2,Ramadan starts,Religious
+2012-07-22,14,2,2,Ramadan starts,Religious
+2012-07-23,14,3,2,Ramadan starts,Religious
+2012-07-24,14,4,2,Ramadan starts,Religious
+2012-07-25,14,5,2,Ramadan starts,Religious
+2012-07-26,14,6,2,Ramadan starts,Religious
+2012-07-27,14,7,2,Ramadan starts,Religious
+2012-07-28,14,8,2,Ramadan starts,Religious
+2012-07-29,14,9,2,Ramadan starts,Religious
+2012-07-30,14,10,2,Ramadan starts,Religious
+2012-07-31,14,11,2,Ramadan starts,Religious
+2012-08-01,14,12,2,Ramadan starts,Religious
+2012-08-02,14,13,2,Ramadan starts,Religious
+2012-08-03,14,14,2,Eid al-Fitr,Religious
+2012-08-04,14,14,2,Eid al-Fitr,Religious
+2012-08-05,14,14,2,Eid al-Fitr,Religious
+2012-08-06,13,14,2,Eid al-Fitr,Religious
+2012-08-07,12,14,2,Eid al-Fitr,Religious
+2012-08-08,11,14,2,Eid al-Fitr,Religious
+2012-08-09,10,14,2,Eid al-Fitr,Religious
+2012-08-10,9,14,2,Eid al-Fitr,Religious
+2012-08-11,8,14,2,Eid al-Fitr,Religious
+2012-08-12,7,14,2,Eid al-Fitr,Religious
+2012-08-13,6,14,2,Eid al-Fitr,Religious
+2012-08-14,5,14,2,Eid al-Fitr,Religious
+2012-08-15,4,14,2,Eid al-Fitr,Religious
+2012-08-16,3,14,2,Eid al-Fitr,Religious
+2012-08-17,2,14,2,Eid al-Fitr,Religious
+2012-08-18,1,14,2,Eid al-Fitr,Religious
+2012-08-19,0,0,2,Eid al-Fitr,Religious
+2012-08-20,14,1,2,Eid al-Fitr,Religious
+2012-08-21,13,2,2,Eid al-Fitr,Religious
+2012-08-22,12,3,2,Eid al-Fitr,Religious
+2012-08-23,11,4,2,Eid al-Fitr,Religious
+2012-08-24,10,5,2,Eid al-Fitr,Religious
+2012-08-25,9,6,2,Eid al-Fitr,Religious
+2012-08-26,8,7,2,Eid al-Fitr,Religious
+2012-08-27,7,8,4,LaborDay,National
+2012-08-28,6,9,4,LaborDay,National
+2012-08-29,5,10,4,LaborDay,National
+2012-08-30,4,11,4,LaborDay,National
+2012-08-31,3,12,4,LaborDay,National
+2012-09-01,2,13,4,LaborDay,National
+2012-09-02,1,14,4,LaborDay,National
+2012-09-03,0,0,4,LaborDay,National
+2012-09-04,14,1,4,LaborDay,National
+2012-09-05,14,2,4,LaborDay,National
+2012-09-06,14,3,4,LaborDay,National
+2012-09-07,14,4,4,LaborDay,National
+2012-09-08,14,5,4,LaborDay,National
+2012-09-09,14,6,4,LaborDay,National
+2012-09-10,14,7,4,LaborDay,National
+2012-09-11,14,8,4,LaborDay,National
+2012-09-12,14,9,4,LaborDay,National
+2012-09-13,14,10,4,LaborDay,National
+2012-09-14,14,11,4,LaborDay,National
+2012-09-15,14,12,4,LaborDay,National
+2012-09-16,14,13,4,LaborDay,National
+2012-09-17,14,14,1,ColumbusDay,National
+2012-09-18,14,14,1,ColumbusDay,National
+2012-09-19,14,14,1,ColumbusDay,National
+2012-09-20,14,14,1,ColumbusDay,National
+2012-09-21,14,14,1,ColumbusDay,National
+2012-09-22,14,14,1,ColumbusDay,National
+2012-09-23,14,14,1,ColumbusDay,National
+2012-09-24,14,14,1,ColumbusDay,National
+2012-09-25,13,14,1,ColumbusDay,National
+2012-09-26,12,14,1,ColumbusDay,National
+2012-09-27,11,14,1,ColumbusDay,National
+2012-09-28,10,14,1,ColumbusDay,National
+2012-09-29,9,14,1,ColumbusDay,National
+2012-09-30,8,14,1,ColumbusDay,National
+2012-10-01,7,14,1,ColumbusDay,National
+2012-10-02,6,14,1,ColumbusDay,National
+2012-10-03,5,14,1,ColumbusDay,National
+2012-10-04,4,14,1,ColumbusDay,National
+2012-10-05,3,14,1,ColumbusDay,National
+2012-10-06,2,14,1,ColumbusDay,National
+2012-10-07,1,14,1,ColumbusDay,National
+2012-10-08,0,0,1,ColumbusDay,National
+2012-10-09,14,1,1,ColumbusDay,National
+2012-10-10,14,2,1,ColumbusDay,National
+2012-10-11,14,3,1,ColumbusDay,National
+2012-10-12,14,4,1,ColumbusDay,National
+2012-10-13,13,5,1,ColumbusDay,National
+2012-10-14,12,6,1,ColumbusDay,National
+2012-10-15,11,7,1,ColumbusDay,National
+2012-10-16,10,8,1,ColumbusDay,National
+2012-10-17,9,9,2,EidAlAdha,Religious
+2012-10-18,8,10,2,EidAlAdha,Religious
+2012-10-19,7,11,2,EidAlAdha,Religious
+2012-10-20,6,12,2,EidAlAdha,Religious
+2012-10-21,5,13,2,EidAlAdha,Religious
+2012-10-22,4,14,2,EidAlAdha,Religious
+2012-10-23,3,14,2,EidAlAdha,Religious
+2012-10-24,2,14,2,EidAlAdha,Religious
+2012-10-25,1,14,2,EidAlAdha,Religious
+2012-10-26,0,0,2,EidAlAdha,Religious
+2012-10-27,4,1,2,EidAlAdha,Religious
+2012-10-28,3,2,2,EidAlAdha,Religious
+2012-10-29,2,3,3,Halloween,Cultural
+2012-10-30,1,4,3,Halloween,Cultural
+2012-10-31,0,0,3,Halloween,Cultural
+2012-11-01,10,1,3,Halloween,Cultural
+2012-11-02,9,2,3,Halloween,Cultural
+2012-11-03,8,3,3,Halloween,Cultural
+2012-11-04,7,4,3,Halloween,Cultural
+2012-11-05,6,5,3,Halloween,Cultural
+2012-11-06,5,6,1,VeteransDay,National
+2012-11-07,4,7,1,VeteransDay,National
+2012-11-08,3,8,1,VeteransDay,National
+2012-11-09,2,9,1,VeteransDay,National
+2012-11-10,1,10,1,VeteransDay,National
+2012-11-11,0,0,1,VeteransDay,National
+2012-11-12,10,1,1,VeteransDay,National
+2012-11-13,9,2,1,VeteransDay,National
+2012-11-14,8,3,1,VeteransDay,National
+2012-11-15,7,4,1,VeteransDay,National
+2012-11-16,6,5,1,VeteransDay,National
+2012-11-17,5,6,5,Thanksgiving,National
+2012-11-18,4,7,5,Thanksgiving,National
+2012-11-19,3,8,5,Thanksgiving,National
+2012-11-20,2,9,5,Thanksgiving,National
+2012-11-21,1,10,5,Thanksgiving,National
+2012-11-22,0,0,5,Thanksgiving,National
+2012-11-23,14,1,5,Thanksgiving,National
+2012-11-24,14,2,5,Thanksgiving,National
+2012-11-25,14,3,5,Thanksgiving,National
+2012-11-26,14,4,5,Thanksgiving,National
+2012-11-27,14,5,5,Thanksgiving,National
+2012-11-28,14,6,5,Thanksgiving,National
+2012-11-29,14,7,5,Thanksgiving,National
+2012-11-30,14,8,5,Thanksgiving,National
+2012-12-01,14,9,5,Thanksgiving,National
+2012-12-02,14,10,5,Thanksgiving,National
+2012-12-03,13,11,5,Thanksgiving,National
+2012-12-04,12,12,1,Chanukah End,Religious
+2012-12-05,11,13,1,Chanukah End,Religious
+2012-12-06,10,14,1,Chanukah End,Religious
+2012-12-07,9,14,1,Chanukah End,Religious
+2012-12-08,8,14,1,Chanukah End,Religious
+2012-12-09,7,14,1,Chanukah End,Religious
+2012-12-10,6,14,1,Chanukah End,Religious
+2012-12-11,5,14,1,Chanukah End,Religious
+2012-12-12,4,14,1,Chanukah End,Religious
+2012-12-13,3,14,1,Chanukah End,Religious
+2012-12-14,2,14,1,Chanukah End,Religious
+2012-12-15,1,14,1,Chanukah End,Religious
+2012-12-16,0,0,1,Chanukah End,Religious
+2012-12-17,8,1,1,Chanukah End,Religious
+2012-12-18,7,2,1,Chanukah End,Religious
+2012-12-19,6,3,1,Chanukah End,Religious
+2012-12-20,5,4,1,Chanukah End,Religious
+2012-12-21,4,5,5,Christmas,National
+2012-12-22,3,6,5,Christmas,National
+2012-12-23,2,7,5,Christmas,National
+2012-12-24,1,8,5,Christmas,National
+2012-12-25,0,0,5,Christmas,National
+2012-12-26,6,1,5,Christmas,National
+2012-12-27,5,2,5,Christmas,National
+2012-12-28,4,3,5,Christmas,National
+2012-12-29,3,4,4,NewYear,National
+2012-12-30,2,5,4,NewYear,National
+2012-12-31,1,6,4,NewYear,National
+2013-01-01,0,0,4,NewYear,National
+2013-01-02,5,1,4,NewYear,National
+2013-01-03,4,2,4,NewYear,National
+2013-01-04,3,3,1,OrthodoxChristmas,Religious
+2013-01-05,2,4,1,OrthodoxChristmas,Religious
+2013-01-06,1,5,1,OrthodoxChristmas,Religious
+2013-01-07,0,0,1,OrthodoxChristmas,Religious
+2013-01-08,13,1,1,OrthodoxChristmas,Religious
+2013-01-09,12,2,1,OrthodoxChristmas,Religious
+2013-01-10,11,3,1,OrthodoxChristmas,Religious
+2013-01-11,10,4,1,OrthodoxChristmas,Religious
+2013-01-12,9,5,1,OrthodoxChristmas,Religious
+2013-01-13,8,6,1,OrthodoxChristmas,Religious
+2013-01-14,7,7,1,MartinLutherKingDay,National
+2013-01-15,6,8,1,MartinLutherKingDay,National
+2013-01-16,5,9,1,MartinLutherKingDay,National
+2013-01-17,4,10,1,MartinLutherKingDay,National
+2013-01-18,3,11,1,MartinLutherKingDay,National
+2013-01-19,2,12,1,MartinLutherKingDay,National
+2013-01-20,1,13,1,MartinLutherKingDay,National
+2013-01-21,0,0,1,MartinLutherKingDay,National
+2013-01-22,12,1,1,MartinLutherKingDay,National
+2013-01-23,11,2,1,MartinLutherKingDay,National
+2013-01-24,10,3,1,MartinLutherKingDay,National
+2013-01-25,9,4,1,MartinLutherKingDay,National
+2013-01-26,8,5,1,MartinLutherKingDay,National
+2013-01-27,7,6,1,MartinLutherKingDay,National
+2013-01-28,6,7,5,SuperBowl,Sporting
+2013-01-29,5,8,5,SuperBowl,Sporting
+2013-01-30,4,9,5,SuperBowl,Sporting
+2013-01-31,3,10,5,SuperBowl,Sporting
+2013-02-01,2,11,5,SuperBowl,Sporting
+2013-02-02,1,12,5,SuperBowl,Sporting
+2013-02-03,0,0,5,SuperBowl,Sporting
+2013-02-04,9,1,5,SuperBowl,Sporting
+2013-02-05,8,2,5,SuperBowl,Sporting
+2013-02-06,7,3,5,SuperBowl,Sporting
+2013-02-07,6,4,5,SuperBowl,Sporting
+2013-02-08,5,5,2,LentStart,Religious
+2013-02-09,4,6,2,LentStart,Religious
+2013-02-10,3,7,2,LentStart,Religious
+2013-02-11,2,8,2,LentStart,Religious
+2013-02-12,1,9,2,LentStart,Religious
+2013-02-13,0,0,2,LentStart,Religious
+2013-02-14,0,0,2,ValentinesDay,Cultural
+2013-02-15,3,1,2,ValentinesDay,Cultural
+2013-02-16,2,2,2,PresidentsDay,National
+2013-02-17,1,3,2,PresidentsDay,National
+2013-02-18,0,0,2,PresidentsDay,National
+2013-02-19,1,1,2,LentWeek2,Religious
+2013-02-20,0,0,2,LentWeek2,Religious
+2013-02-21,3,1,2,LentWeek2,Religious
+2013-02-22,2,2,1,Purim End,Religious
+2013-02-23,1,3,1,Purim End,Religious
+2013-02-24,0,0,1,Purim End,Religious
+2013-02-25,14,1,1,Purim End,Religious
+2013-02-26,14,2,1,Purim End,Religious
+2013-02-27,14,3,1,Purim End,Religious
+2013-02-28,14,4,1,Purim End,Religious
+2013-03-01,14,5,1,Purim End,Religious
+2013-03-02,14,6,1,Purim End,Religious
+2013-03-03,14,7,1,Purim End,Religious
+2013-03-04,13,8,1,Purim End,Religious
+2013-03-05,12,9,1,Purim End,Religious
+2013-03-06,11,10,1,Purim End,Religious
+2013-03-07,10,11,3,StPatricksDay,Cultural
+2013-03-08,9,12,3,StPatricksDay,Cultural
+2013-03-09,8,13,3,StPatricksDay,Cultural
+2013-03-10,7,14,3,StPatricksDay,Cultural
+2013-03-11,6,14,3,StPatricksDay,Cultural
+2013-03-12,5,14,3,StPatricksDay,Cultural
+2013-03-13,4,14,3,StPatricksDay,Cultural
+2013-03-14,3,14,3,StPatricksDay,Cultural
+2013-03-15,2,14,3,StPatricksDay,Cultural
+2013-03-16,1,14,3,StPatricksDay,Cultural
+2013-03-17,0,0,3,StPatricksDay,Cultural
+2013-03-18,13,1,3,StPatricksDay,Cultural
+2013-03-19,12,2,3,StPatricksDay,Cultural
+2013-03-20,11,3,3,StPatricksDay,Cultural
+2013-03-21,10,4,3,StPatricksDay,Cultural
+2013-03-22,9,5,3,StPatricksDay,Cultural
+2013-03-23,8,6,3,StPatricksDay,Cultural
+2013-03-24,7,7,3,Easter,Cultural
+2013-03-25,6,8,3,Easter,Cultural
+2013-03-26,5,9,3,Easter,Cultural
+2013-03-27,4,10,3,Easter,Cultural
+2013-03-28,3,11,3,Easter,Cultural
+2013-03-29,2,12,3,Easter,Cultural
+2013-03-30,1,13,3,Easter,Cultural
+2013-03-31,0,0,3,Easter,Cultural
+2013-04-01,1,1,2,Pesach End,Religious
+2013-04-02,0,0,2,Pesach End,Religious
+2013-04-03,14,1,2,Pesach End,Religious
+2013-04-04,14,2,2,Pesach End,Religious
+2013-04-05,14,3,2,Pesach End,Religious
+2013-04-06,14,4,2,Pesach End,Religious
+2013-04-07,14,5,2,Pesach End,Religious
+2013-04-08,14,6,2,Pesach End,Religious
+2013-04-09,14,7,2,Pesach End,Religious
+2013-04-10,14,8,2,Pesach End,Religious
+2013-04-11,14,9,2,Pesach End,Religious
+2013-04-12,14,10,2,Pesach End,Religious
+2013-04-13,14,11,2,Pesach End,Religious
+2013-04-14,14,12,2,Pesach End,Religious
+2013-04-15,14,13,2,Pesach End,Religious
+2013-04-16,14,14,2,Cinco De Mayo,Cultural
+2013-04-17,14,14,2,Cinco De Mayo,Cultural
+2013-04-18,14,14,2,Cinco De Mayo,Cultural
+2013-04-19,14,14,2,Cinco De Mayo,Cultural
+2013-04-20,14,14,2,Cinco De Mayo,Cultural
+2013-04-21,14,14,2,Cinco De Mayo,Cultural
+2013-04-22,13,14,2,Cinco De Mayo,Cultural
+2013-04-23,12,14,2,Cinco De Mayo,Cultural
+2013-04-24,11,14,2,Cinco De Mayo,Cultural
+2013-04-25,10,14,2,Cinco De Mayo,Cultural
+2013-04-26,9,14,2,Cinco De Mayo,Cultural
+2013-04-27,8,14,2,Cinco De Mayo,Cultural
+2013-04-28,7,14,2,Cinco De Mayo,Cultural
+2013-04-29,6,14,2,Cinco De Mayo,Cultural
+2013-04-30,5,14,2,Cinco De Mayo,Cultural
+2013-05-01,4,14,2,Cinco De Mayo,Cultural
+2013-05-02,3,14,2,Cinco De Mayo,Cultural
+2013-05-03,2,14,2,Cinco De Mayo,Cultural
+2013-05-04,1,14,2,Cinco De Mayo,Cultural
+2013-05-05,0,0,2,Cinco De Mayo,Cultural
+2013-05-06,6,1,2,OrthodoxEaster,Religious
+2013-05-07,5,2,2,OrthodoxEaster,Religious
+2013-05-08,4,3,2,OrthodoxEaster,Religious
+2013-05-09,3,4,3,Mother's day,Cultural
+2013-05-10,2,5,3,Mother's day,Cultural
+2013-05-11,1,6,3,Mother's day,Cultural
+2013-05-12,0,0,3,Mother's day,Cultural
+2013-05-13,14,1,3,Mother's day,Cultural
+2013-05-14,13,2,3,Mother's day,Cultural
+2013-05-15,12,3,3,Mother's day,Cultural
+2013-05-16,11,4,3,Mother's day,Cultural
+2013-05-17,10,5,3,Mother's day,Cultural
+2013-05-18,9,6,3,Mother's day,Cultural
+2013-05-19,8,7,3,Mother's day,Cultural
+2013-05-20,7,8,4,MemorialDay,National
+2013-05-21,6,9,4,MemorialDay,National
+2013-05-22,5,10,4,MemorialDay,National
+2013-05-23,4,11,4,MemorialDay,National
+2013-05-24,3,12,4,MemorialDay,National
+2013-05-25,2,13,4,MemorialDay,National
+2013-05-26,1,14,4,MemorialDay,National
+2013-05-27,0,0,4,MemorialDay,National
+2013-05-28,9,1,4,MemorialDay,National
+2013-05-29,8,2,4,MemorialDay,National
+2013-05-30,7,3,4,MemorialDay,National
+2013-05-31,6,4,4,MemorialDay,National
+2013-06-01,5,5,3,NBAFinalsStart,Sporting
+2013-06-02,4,6,3,NBAFinalsStart,Sporting
+2013-06-03,3,7,3,NBAFinalsStart,Sporting
+2013-06-04,2,8,3,NBAFinalsStart,Sporting
+2013-06-05,1,9,3,NBAFinalsStart,Sporting
+2013-06-06,0,0,3,NBAFinalsStart,Sporting
+2013-06-07,9,1,3,NBAFinalsStart,Sporting
+2013-06-08,8,2,3,NBAFinalsStart,Sporting
+2013-06-09,7,3,3,NBAFinalsStart,Sporting
+2013-06-10,6,4,3,NBAFinalsStart,Sporting
+2013-06-11,5,5,3,Father's day,Cultural
+2013-06-12,4,6,3,Father's day,Cultural
+2013-06-13,3,7,3,Father's day,Cultural
+2013-06-14,2,8,3,Father's day,Cultural
+2013-06-15,1,9,3,Father's day,Cultural
+2013-06-16,0,0,3,Father's day,Cultural
+2013-06-17,3,1,3,Father's day,Cultural
+2013-06-18,2,2,3,NBAFinalsEnd,Sporting
+2013-06-19,1,3,3,NBAFinalsEnd,Sporting
+2013-06-20,0,0,3,NBAFinalsEnd,Sporting
+2013-06-21,13,1,3,NBAFinalsEnd,Sporting
+2013-06-22,12,2,3,NBAFinalsEnd,Sporting
+2013-06-23,11,3,3,NBAFinalsEnd,Sporting
+2013-06-24,10,4,3,NBAFinalsEnd,Sporting
+2013-06-25,9,5,3,NBAFinalsEnd,Sporting
+2013-06-26,8,6,3,NBAFinalsEnd,Sporting
+2013-06-27,7,7,4,IndependenceDay,National
+2013-06-28,6,8,4,IndependenceDay,National
+2013-06-29,5,9,4,IndependenceDay,National
+2013-06-30,4,10,4,IndependenceDay,National
+2013-07-01,3,11,4,IndependenceDay,National
+2013-07-02,2,12,4,IndependenceDay,National
+2013-07-03,1,13,4,IndependenceDay,National
+2013-07-04,0,0,4,IndependenceDay,National
+2013-07-05,4,1,4,IndependenceDay,National
+2013-07-06,3,2,4,IndependenceDay,National
+2013-07-07,2,3,2,Ramadan starts,Religious
+2013-07-08,1,4,2,Ramadan starts,Religious
+2013-07-09,0,0,2,Ramadan starts,Religious
+2013-07-10,14,1,2,Ramadan starts,Religious
+2013-07-11,14,2,2,Ramadan starts,Religious
+2013-07-12,14,3,2,Ramadan starts,Religious
+2013-07-13,14,4,2,Ramadan starts,Religious
+2013-07-14,14,5,2,Ramadan starts,Religious
+2013-07-15,14,6,2,Ramadan starts,Religious
+2013-07-16,14,7,2,Ramadan starts,Religious
+2013-07-17,14,8,2,Ramadan starts,Religious
+2013-07-18,14,9,2,Ramadan starts,Religious
+2013-07-19,14,10,2,Ramadan starts,Religious
+2013-07-20,14,11,2,Ramadan starts,Religious
+2013-07-21,14,12,2,Ramadan starts,Religious
+2013-07-22,14,13,2,Ramadan starts,Religious
+2013-07-23,14,14,2,Eid al-Fitr,Religious
+2013-07-24,14,14,2,Eid al-Fitr,Religious
+2013-07-25,14,14,2,Eid al-Fitr,Religious
+2013-07-26,13,14,2,Eid al-Fitr,Religious
+2013-07-27,12,14,2,Eid al-Fitr,Religious
+2013-07-28,11,14,2,Eid al-Fitr,Religious
+2013-07-29,10,14,2,Eid al-Fitr,Religious
+2013-07-30,9,14,2,Eid al-Fitr,Religious
+2013-07-31,8,14,2,Eid al-Fitr,Religious
+2013-08-01,7,14,2,Eid al-Fitr,Religious
+2013-08-02,6,14,2,Eid al-Fitr,Religious
+2013-08-03,5,14,2,Eid al-Fitr,Religious
+2013-08-04,4,14,2,Eid al-Fitr,Religious
+2013-08-05,3,14,2,Eid al-Fitr,Religious
+2013-08-06,2,14,2,Eid al-Fitr,Religious
+2013-08-07,1,14,2,Eid al-Fitr,Religious
+2013-08-08,0,0,2,Eid al-Fitr,Religious
+2013-08-09,14,1,2,Eid al-Fitr,Religious
+2013-08-10,14,2,2,Eid al-Fitr,Religious
+2013-08-11,14,3,2,Eid al-Fitr,Religious
+2013-08-12,14,4,2,Eid al-Fitr,Religious
+2013-08-13,14,5,2,Eid al-Fitr,Religious
+2013-08-14,14,6,2,Eid al-Fitr,Religious
+2013-08-15,14,7,2,Eid al-Fitr,Religious
+2013-08-16,14,8,2,Eid al-Fitr,Religious
+2013-08-17,14,9,2,Eid al-Fitr,Religious
+2013-08-18,14,10,2,Eid al-Fitr,Religious
+2013-08-19,14,11,2,Eid al-Fitr,Religious
+2013-08-20,13,12,2,Eid al-Fitr,Religious
+2013-08-21,12,13,4,LaborDay,National
+2013-08-22,11,14,4,LaborDay,National
+2013-08-23,10,14,4,LaborDay,National
+2013-08-24,9,14,4,LaborDay,National
+2013-08-25,8,14,4,LaborDay,National
+2013-08-26,7,14,4,LaborDay,National
+2013-08-27,6,14,4,LaborDay,National
+2013-08-28,5,14,4,LaborDay,National
+2013-08-29,4,14,4,LaborDay,National
+2013-08-30,3,14,4,LaborDay,National
+2013-08-31,2,14,4,LaborDay,National
+2013-09-01,1,14,4,LaborDay,National
+2013-09-02,0,0,4,LaborDay,National
+2013-09-03,14,1,4,LaborDay,National
+2013-09-04,14,2,4,LaborDay,National
+2013-09-05,14,3,4,LaborDay,National
+2013-09-06,14,4,4,LaborDay,National
+2013-09-07,14,5,4,LaborDay,National
+2013-09-08,14,6,4,LaborDay,National
+2013-09-09,14,7,4,LaborDay,National
+2013-09-10,14,8,4,LaborDay,National
+2013-09-11,14,9,4,LaborDay,National
+2013-09-12,14,10,4,LaborDay,National
+2013-09-13,14,11,4,LaborDay,National
+2013-09-14,14,12,4,LaborDay,National
+2013-09-15,14,13,4,LaborDay,National
+2013-09-16,14,14,1,ColumbusDay,National
+2013-09-17,14,14,1,ColumbusDay,National
+2013-09-18,14,14,1,ColumbusDay,National
+2013-09-19,14,14,1,ColumbusDay,National
+2013-09-20,14,14,1,ColumbusDay,National
+2013-09-21,14,14,1,ColumbusDay,National
+2013-09-22,14,14,1,ColumbusDay,National
+2013-09-23,14,14,1,ColumbusDay,National
+2013-09-24,14,14,1,ColumbusDay,National
+2013-09-25,14,14,1,ColumbusDay,National
+2013-09-26,14,14,1,ColumbusDay,National
+2013-09-27,14,14,1,ColumbusDay,National
+2013-09-28,14,14,1,ColumbusDay,National
+2013-09-29,14,14,1,ColumbusDay,National
+2013-09-30,14,14,1,ColumbusDay,National
+2013-10-01,13,14,1,ColumbusDay,National
+2013-10-02,12,14,1,ColumbusDay,National
+2013-10-03,11,14,1,ColumbusDay,National
+2013-10-04,10,14,1,ColumbusDay,National
+2013-10-05,9,14,1,ColumbusDay,National
+2013-10-06,8,14,1,ColumbusDay,National
+2013-10-07,7,14,1,ColumbusDay,National
+2013-10-08,6,14,1,ColumbusDay,National
+2013-10-09,5,14,1,ColumbusDay,National
+2013-10-10,4,14,1,ColumbusDay,National
+2013-10-11,3,14,1,ColumbusDay,National
+2013-10-12,2,14,1,ColumbusDay,National
+2013-10-13,1,14,1,ColumbusDay,National
+2013-10-14,0,0,1,ColumbusDay,National
+2013-10-15,0,0,2,EidAlAdha,Religious
+2013-10-16,14,1,2,EidAlAdha,Religious
+2013-10-17,14,2,2,EidAlAdha,Religious
+2013-10-18,13,3,2,EidAlAdha,Religious
+2013-10-19,12,4,2,EidAlAdha,Religious
+2013-10-20,11,5,2,EidAlAdha,Religious
+2013-10-21,10,6,2,EidAlAdha,Religious
+2013-10-22,9,7,2,EidAlAdha,Religious
+2013-10-23,8,8,3,Halloween,Cultural
+2013-10-24,7,9,3,Halloween,Cultural
+2013-10-25,6,10,3,Halloween,Cultural
+2013-10-26,5,11,3,Halloween,Cultural
+2013-10-27,4,12,3,Halloween,Cultural
+2013-10-28,3,13,3,Halloween,Cultural
+2013-10-29,2,14,3,Halloween,Cultural
+2013-10-30,1,14,3,Halloween,Cultural
+2013-10-31,0,0,3,Halloween,Cultural
+2013-11-01,10,1,3,Halloween,Cultural
+2013-11-02,9,2,3,Halloween,Cultural
+2013-11-03,8,3,3,Halloween,Cultural
+2013-11-04,7,4,3,Halloween,Cultural
+2013-11-05,6,5,3,Halloween,Cultural
+2013-11-06,5,6,1,VeteransDay,National
+2013-11-07,4,7,1,VeteransDay,National
+2013-11-08,3,8,1,VeteransDay,National
+2013-11-09,2,9,1,VeteransDay,National
+2013-11-10,1,10,1,VeteransDay,National
+2013-11-11,0,0,1,VeteransDay,National
+2013-11-12,14,1,1,VeteransDay,National
+2013-11-13,14,2,1,VeteransDay,National
+2013-11-14,14,3,1,VeteransDay,National
+2013-11-15,13,4,1,VeteransDay,National
+2013-11-16,12,5,1,VeteransDay,National
+2013-11-17,11,6,1,VeteransDay,National
+2013-11-18,10,7,1,VeteransDay,National
+2013-11-19,9,8,1,VeteransDay,National
+2013-11-20,8,9,5,Thanksgiving,National
+2013-11-21,7,10,5,Thanksgiving,National
+2013-11-22,6,11,5,Thanksgiving,National
+2013-11-23,5,12,5,Thanksgiving,National
+2013-11-24,4,13,5,Thanksgiving,National
+2013-11-25,3,14,5,Thanksgiving,National
+2013-11-26,2,14,5,Thanksgiving,National
+2013-11-27,1,14,5,Thanksgiving,National
+2013-11-28,0,0,5,Thanksgiving,National
+2013-11-29,6,1,5,Thanksgiving,National
+2013-11-30,5,2,5,Thanksgiving,National
+2013-12-01,4,3,5,Thanksgiving,National
+2013-12-02,3,4,1,Chanukah End,Religious
+2013-12-03,2,5,1,Chanukah End,Religious
+2013-12-04,1,6,1,Chanukah End,Religious
+2013-12-05,0,0,1,Chanukah End,Religious
+2013-12-06,14,1,1,Chanukah End,Religious
+2013-12-07,14,2,1,Chanukah End,Religious
+2013-12-08,14,3,1,Chanukah End,Religious
+2013-12-09,14,4,1,Chanukah End,Religious
+2013-12-10,14,5,1,Chanukah End,Religious
+2013-12-11,14,6,1,Chanukah End,Religious
+2013-12-12,13,7,1,Chanukah End,Religious
+2013-12-13,12,8,1,Chanukah End,Religious
+2013-12-14,11,9,1,Chanukah End,Religious
+2013-12-15,10,10,5,Christmas,National
+2013-12-16,9,11,5,Christmas,National
+2013-12-17,8,12,5,Christmas,National
+2013-12-18,7,13,5,Christmas,National
+2013-12-19,6,14,5,Christmas,National
+2013-12-20,5,14,5,Christmas,National
+2013-12-21,4,14,5,Christmas,National
+2013-12-22,3,14,5,Christmas,National
+2013-12-23,2,14,5,Christmas,National
+2013-12-24,1,14,5,Christmas,National
+2013-12-25,0,0,5,Christmas,National
+2013-12-26,6,1,5,Christmas,National
+2013-12-27,5,2,5,Christmas,National
+2013-12-28,4,3,5,Christmas,National
+2013-12-29,3,4,4,NewYear,National
+2013-12-30,2,5,4,NewYear,National
+2013-12-31,1,6,4,NewYear,National
+2014-01-01,0,0,4,NewYear,National
+2014-01-02,5,1,4,NewYear,National
+2014-01-03,4,2,4,NewYear,National
+2014-01-04,3,3,1,OrthodoxChristmas,Religious
+2014-01-05,2,4,1,OrthodoxChristmas,Religious
+2014-01-06,1,5,1,OrthodoxChristmas,Religious
+2014-01-07,0,0,1,OrthodoxChristmas,Religious
+2014-01-08,12,1,1,OrthodoxChristmas,Religious
+2014-01-09,11,2,1,OrthodoxChristmas,Religious
+2014-01-10,10,3,1,OrthodoxChristmas,Religious
+2014-01-11,9,4,1,OrthodoxChristmas,Religious
+2014-01-12,8,5,1,OrthodoxChristmas,Religious
+2014-01-13,7,6,1,OrthodoxChristmas,Religious
+2014-01-14,6,7,1,MartinLutherKingDay,National
+2014-01-15,5,8,1,MartinLutherKingDay,National
+2014-01-16,4,9,1,MartinLutherKingDay,National
+2014-01-17,3,10,1,MartinLutherKingDay,National
+2014-01-18,2,11,1,MartinLutherKingDay,National
+2014-01-19,1,12,1,MartinLutherKingDay,National
+2014-01-20,0,0,1,MartinLutherKingDay,National
+2014-01-21,12,1,1,MartinLutherKingDay,National
+2014-01-22,11,2,1,MartinLutherKingDay,National
+2014-01-23,10,3,1,MartinLutherKingDay,National
+2014-01-24,9,4,1,MartinLutherKingDay,National
+2014-01-25,8,5,1,MartinLutherKingDay,National
+2014-01-26,7,6,1,MartinLutherKingDay,National
+2014-01-27,6,7,5,SuperBowl,Sporting
+2014-01-28,5,8,5,SuperBowl,Sporting
+2014-01-29,4,9,5,SuperBowl,Sporting
+2014-01-30,3,10,5,SuperBowl,Sporting
+2014-01-31,2,11,5,SuperBowl,Sporting
+2014-02-01,1,12,5,SuperBowl,Sporting
+2014-02-02,0,0,5,SuperBowl,Sporting
+2014-02-03,11,1,5,SuperBowl,Sporting
+2014-02-04,10,2,5,SuperBowl,Sporting
+2014-02-05,9,3,5,SuperBowl,Sporting
+2014-02-06,8,4,5,SuperBowl,Sporting
+2014-02-07,7,5,5,SuperBowl,Sporting
+2014-02-08,6,6,2,ValentinesDay,Cultural
+2014-02-09,5,7,2,ValentinesDay,Cultural
+2014-02-10,4,8,2,ValentinesDay,Cultural
+2014-02-11,3,9,2,ValentinesDay,Cultural
+2014-02-12,2,10,2,ValentinesDay,Cultural
+2014-02-13,1,11,2,ValentinesDay,Cultural
+2014-02-14,0,0,2,ValentinesDay,Cultural
+2014-02-15,2,1,2,ValentinesDay,Cultural
+2014-02-16,1,2,2,PresidentsDay,National
+2014-02-17,0,0,2,PresidentsDay,National
+2014-02-18,14,1,2,PresidentsDay,National
+2014-02-19,14,2,2,PresidentsDay,National
+2014-02-20,13,3,2,PresidentsDay,National
+2014-02-21,12,4,2,PresidentsDay,National
+2014-02-22,11,5,2,PresidentsDay,National
+2014-02-23,10,6,2,PresidentsDay,National
+2014-02-24,9,7,2,PresidentsDay,National
+2014-02-25,8,8,2,LentStart,Religious
+2014-02-26,7,9,2,LentStart,Religious
+2014-02-27,6,10,2,LentStart,Religious
+2014-02-28,5,11,2,LentStart,Religious
+2014-03-01,4,12,2,LentStart,Religious
+2014-03-02,3,13,2,LentStart,Religious
+2014-03-03,2,14,2,LentStart,Religious
+2014-03-04,1,14,2,LentStart,Religious
+2014-03-05,0,0,2,LentStart,Religious
+2014-03-06,6,1,2,LentStart,Religious
+2014-03-07,5,2,2,LentStart,Religious
+2014-03-08,4,3,2,LentStart,Religious
+2014-03-09,3,4,2,LentWeek2,Religious
+2014-03-10,2,5,2,LentWeek2,Religious
+2014-03-11,1,6,2,LentWeek2,Religious
+2014-03-12,0,0,2,LentWeek2,Religious
+2014-03-13,3,1,2,LentWeek2,Religious
+2014-03-14,2,2,1,Purim End,Religious
+2014-03-15,1,3,1,Purim End,Religious
+2014-03-16,0,0,1,Purim End,Religious
+2014-03-17,0,0,3,StPatricksDay,Cultural
+2014-03-18,14,1,3,StPatricksDay,Cultural
+2014-03-19,14,2,3,StPatricksDay,Cultural
+2014-03-20,14,3,3,StPatricksDay,Cultural
+2014-03-21,14,4,3,StPatricksDay,Cultural
+2014-03-22,14,5,3,StPatricksDay,Cultural
+2014-03-23,14,6,3,StPatricksDay,Cultural
+2014-03-24,14,7,3,StPatricksDay,Cultural
+2014-03-25,14,8,3,StPatricksDay,Cultural
+2014-03-26,14,9,3,StPatricksDay,Cultural
+2014-03-27,14,10,3,StPatricksDay,Cultural
+2014-03-28,14,11,3,StPatricksDay,Cultural
+2014-03-29,14,12,3,StPatricksDay,Cultural
+2014-03-30,14,13,3,StPatricksDay,Cultural
+2014-03-31,14,14,3,Easter,Cultural
+2014-04-01,14,14,3,Easter,Cultural
+2014-04-02,14,14,3,Easter,Cultural
+2014-04-03,14,14,3,Easter,Cultural
+2014-04-04,14,14,3,Easter,Cultural
+2014-04-05,14,14,3,Easter,Cultural
+2014-04-06,14,14,3,Easter,Cultural
+2014-04-07,13,14,3,Easter,Cultural
+2014-04-08,12,14,3,Easter,Cultural
+2014-04-09,11,14,3,Easter,Cultural
+2014-04-10,10,14,3,Easter,Cultural
+2014-04-11,9,14,3,Easter,Cultural
+2014-04-12,8,14,3,Easter,Cultural
+2014-04-13,7,14,3,Easter,Cultural
+2014-04-14,6,14,3,Easter,Cultural
+2014-04-15,5,14,3,Easter,Cultural
+2014-04-16,4,14,3,Easter,Cultural
+2014-04-17,3,14,3,Easter,Cultural
+2014-04-18,2,14,3,Easter,Cultural
+2014-04-19,1,14,3,Easter,Cultural
+2014-04-20,0,0,3,Easter,Cultural
+2014-04-21,1,1,2,Pesach End,Religious
+2014-04-22,0,0,2,Pesach End,Religious
+2014-04-23,12,1,2,Pesach End,Religious
+2014-04-24,11,2,2,Pesach End,Religious
+2014-04-25,10,3,2,Pesach End,Religious
+2014-04-26,9,4,2,Pesach End,Religious
+2014-04-27,8,5,2,Pesach End,Religious
+2014-04-28,7,6,2,Pesach End,Religious
+2014-04-29,6,7,2,Cinco De Mayo,Cultural
+2014-04-30,5,8,2,Cinco De Mayo,Cultural
+2014-05-01,4,9,2,Cinco De Mayo,Cultural
+2014-05-02,3,10,2,Cinco De Mayo,Cultural
+2014-05-03,2,11,2,Cinco De Mayo,Cultural
+2014-05-04,1,12,2,Cinco De Mayo,Cultural
+2014-05-05,0,0,2,Cinco De Mayo,Cultural
+2014-05-06,5,1,2,Cinco De Mayo,Cultural
+2014-05-07,4,2,2,Cinco De Mayo,Cultural
+2014-05-08,3,3,3,Mother's day,Cultural
+2014-05-09,2,4,3,Mother's day,Cultural
+2014-05-10,1,5,3,Mother's day,Cultural
+2014-05-11,0,0,3,Mother's day,Cultural
+2014-05-12,14,1,3,Mother's day,Cultural
+2014-05-13,13,2,3,Mother's day,Cultural
+2014-05-14,12,3,3,Mother's day,Cultural
+2014-05-15,11,4,3,Mother's day,Cultural
+2014-05-16,10,5,3,Mother's day,Cultural
+2014-05-17,9,6,3,Mother's day,Cultural
+2014-05-18,8,7,3,Mother's day,Cultural
+2014-05-19,7,8,4,MemorialDay,National
+2014-05-20,6,9,4,MemorialDay,National
+2014-05-21,5,10,4,MemorialDay,National
+2014-05-22,4,11,4,MemorialDay,National
+2014-05-23,3,12,4,MemorialDay,National
+2014-05-24,2,13,4,MemorialDay,National
+2014-05-25,1,14,4,MemorialDay,National
+2014-05-26,0,0,4,MemorialDay,National
+2014-05-27,9,1,4,MemorialDay,National
+2014-05-28,8,2,4,MemorialDay,National
+2014-05-29,7,3,4,MemorialDay,National
+2014-05-30,6,4,4,MemorialDay,National
+2014-05-31,5,5,3,NBAFinalsStart,Sporting
+2014-06-01,4,6,3,NBAFinalsStart,Sporting
+2014-06-02,3,7,3,NBAFinalsStart,Sporting
+2014-06-03,2,8,3,NBAFinalsStart,Sporting
+2014-06-04,1,9,3,NBAFinalsStart,Sporting
+2014-06-05,0,0,3,NBAFinalsStart,Sporting
+2014-06-06,9,1,3,NBAFinalsStart,Sporting
+2014-06-07,8,2,3,NBAFinalsStart,Sporting
+2014-06-08,7,3,3,NBAFinalsStart,Sporting
+2014-06-09,6,4,3,NBAFinalsStart,Sporting
+2014-06-10,5,5,3,Father's day,Cultural
+2014-06-11,4,6,3,Father's day,Cultural
+2014-06-12,3,7,3,Father's day,Cultural
+2014-06-13,2,8,3,Father's day,Cultural
+2014-06-14,1,9,3,Father's day,Cultural
+2014-06-15,0,0,3,Father's day,Cultural
+2014-06-16,13,1,3,NBAFinalsEnd,Sporting
+2014-06-17,12,2,3,NBAFinalsEnd,Sporting
+2014-06-18,11,3,3,NBAFinalsEnd,Sporting
+2014-06-19,10,4,3,NBAFinalsEnd,Sporting
+2014-06-20,9,5,3,NBAFinalsEnd,Sporting
+2014-06-21,8,6,3,NBAFinalsEnd,Sporting
+2014-06-22,7,7,2,Ramadan starts,Religious
+2014-06-23,6,8,2,Ramadan starts,Religious
+2014-06-24,5,9,2,Ramadan starts,Religious
+2014-06-25,4,10,2,Ramadan starts,Religious
+2014-06-26,3,11,2,Ramadan starts,Religious
+2014-06-27,2,12,2,Ramadan starts,Religious
+2014-06-28,1,13,2,Ramadan starts,Religious
+2014-06-29,0,0,2,Ramadan starts,Religious
+2014-06-30,4,1,2,Ramadan starts,Religious
+2014-07-01,3,2,2,Ramadan starts,Religious
+2014-07-02,2,3,4,IndependenceDay,National
+2014-07-03,1,4,4,IndependenceDay,National
+2014-07-04,0,0,4,IndependenceDay,National
+2014-07-05,14,1,4,IndependenceDay,National
+2014-07-06,14,2,4,IndependenceDay,National
+2014-07-07,14,3,4,IndependenceDay,National
+2014-07-08,14,4,4,IndependenceDay,National
+2014-07-09,14,5,4,IndependenceDay,National
+2014-07-10,14,6,4,IndependenceDay,National
+2014-07-11,14,7,4,IndependenceDay,National
+2014-07-12,14,8,4,IndependenceDay,National
+2014-07-13,14,9,4,IndependenceDay,National
+2014-07-14,14,10,4,IndependenceDay,National
+2014-07-15,14,11,4,IndependenceDay,National
+2014-07-16,13,12,4,IndependenceDay,National
+2014-07-17,12,13,2,Eid al-Fitr,Religious
+2014-07-18,11,14,2,Eid al-Fitr,Religious
+2014-07-19,10,14,2,Eid al-Fitr,Religious
+2014-07-20,9,14,2,Eid al-Fitr,Religious
+2014-07-21,8,14,2,Eid al-Fitr,Religious
+2014-07-22,7,14,2,Eid al-Fitr,Religious
+2014-07-23,6,14,2,Eid al-Fitr,Religious
+2014-07-24,5,14,2,Eid al-Fitr,Religious
+2014-07-25,4,14,2,Eid al-Fitr,Religious
+2014-07-26,3,14,2,Eid al-Fitr,Religious
+2014-07-27,2,14,2,Eid al-Fitr,Religious
+2014-07-28,1,14,2,Eid al-Fitr,Religious
+2014-07-29,0,0,2,Eid al-Fitr,Religious
+2014-07-30,14,1,2,Eid al-Fitr,Religious
+2014-07-31,14,2,2,Eid al-Fitr,Religious
+2014-08-01,14,3,2,Eid al-Fitr,Religious
+2014-08-02,14,4,2,Eid al-Fitr,Religious
+2014-08-03,14,5,2,Eid al-Fitr,Religious
+2014-08-04,14,6,2,Eid al-Fitr,Religious
+2014-08-05,14,7,2,Eid al-Fitr,Religious
+2014-08-06,14,8,2,Eid al-Fitr,Religious
+2014-08-07,14,9,2,Eid al-Fitr,Religious
+2014-08-08,14,10,2,Eid al-Fitr,Religious
+2014-08-09,14,11,2,Eid al-Fitr,Religious
+2014-08-10,14,12,2,Eid al-Fitr,Religious
+2014-08-11,14,13,2,Eid al-Fitr,Religious
+2014-08-12,14,14,4,LaborDay,National
+2014-08-13,14,14,4,LaborDay,National
+2014-08-14,14,14,4,LaborDay,National
+2014-08-15,14,14,4,LaborDay,National
+2014-08-16,14,14,4,LaborDay,National
+2014-08-17,14,14,4,LaborDay,National
+2014-08-18,14,14,4,LaborDay,National
+2014-08-19,13,14,4,LaborDay,National
+2014-08-20,12,14,4,LaborDay,National
+2014-08-21,11,14,4,LaborDay,National
+2014-08-22,10,14,4,LaborDay,National
+2014-08-23,9,14,4,LaborDay,National
+2014-08-24,8,14,4,LaborDay,National
+2014-08-25,7,14,4,LaborDay,National
+2014-08-26,6,14,4,LaborDay,National
+2014-08-27,5,14,4,LaborDay,National
+2014-08-28,4,14,4,LaborDay,National
+2014-08-29,3,14,4,LaborDay,National
+2014-08-30,2,14,4,LaborDay,National
+2014-08-31,1,14,4,LaborDay,National
+2014-09-01,0,0,4,LaborDay,National
+2014-09-02,14,1,4,LaborDay,National
+2014-09-03,14,2,4,LaborDay,National
+2014-09-04,14,3,4,LaborDay,National
+2014-09-05,14,4,4,LaborDay,National
+2014-09-06,14,5,4,LaborDay,National
+2014-09-07,14,6,4,LaborDay,National
+2014-09-08,14,7,4,LaborDay,National
+2014-09-09,14,8,4,LaborDay,National
+2014-09-10,14,9,4,LaborDay,National
+2014-09-11,14,10,4,LaborDay,National
+2014-09-12,14,11,4,LaborDay,National
+2014-09-13,14,12,4,LaborDay,National
+2014-09-14,14,13,4,LaborDay,National
+2014-09-15,14,14,2,EidAlAdha,Religious
+2014-09-16,14,14,2,EidAlAdha,Religious
+2014-09-17,14,14,2,EidAlAdha,Religious
+2014-09-18,14,14,2,EidAlAdha,Religious
+2014-09-19,14,14,2,EidAlAdha,Religious
+2014-09-20,14,14,2,EidAlAdha,Religious
+2014-09-21,13,14,2,EidAlAdha,Religious
+2014-09-22,12,14,2,EidAlAdha,Religious
+2014-09-23,11,14,2,EidAlAdha,Religious
+2014-09-24,10,14,2,EidAlAdha,Religious
+2014-09-25,9,14,2,EidAlAdha,Religious
+2014-09-26,8,14,2,EidAlAdha,Religious
+2014-09-27,7,14,2,EidAlAdha,Religious
+2014-09-28,6,14,2,EidAlAdha,Religious
+2014-09-29,5,14,2,EidAlAdha,Religious
+2014-09-30,4,14,2,EidAlAdha,Religious
+2014-10-01,3,14,2,EidAlAdha,Religious
+2014-10-02,2,14,2,EidAlAdha,Religious
+2014-10-03,1,14,2,EidAlAdha,Religious
+2014-10-04,0,0,2,EidAlAdha,Religious
+2014-10-05,8,1,2,EidAlAdha,Religious
+2014-10-06,7,2,2,EidAlAdha,Religious
+2014-10-07,6,3,2,EidAlAdha,Religious
+2014-10-08,5,4,2,EidAlAdha,Religious
+2014-10-09,4,5,1,ColumbusDay,National
+2014-10-10,3,6,1,ColumbusDay,National
+2014-10-11,2,7,1,ColumbusDay,National
+2014-10-12,1,8,1,ColumbusDay,National
+2014-10-13,0,0,1,ColumbusDay,National
+2014-10-14,14,1,1,ColumbusDay,National
+2014-10-15,14,2,1,ColumbusDay,National
+2014-10-16,14,3,1,ColumbusDay,National
+2014-10-17,14,4,1,ColumbusDay,National
+2014-10-18,13,5,1,ColumbusDay,National
+2014-10-19,12,6,1,ColumbusDay,National
+2014-10-20,11,7,1,ColumbusDay,National
+2014-10-21,10,8,1,ColumbusDay,National
+2014-10-22,9,9,3,Halloween,Cultural
+2014-10-23,8,10,3,Halloween,Cultural
+2014-10-24,7,11,3,Halloween,Cultural
+2014-10-25,6,12,3,Halloween,Cultural
+2014-10-26,5,13,3,Halloween,Cultural
+2014-10-27,4,14,3,Halloween,Cultural
+2014-10-28,3,14,3,Halloween,Cultural
+2014-10-29,2,14,3,Halloween,Cultural
+2014-10-30,1,14,3,Halloween,Cultural
+2014-10-31,0,0,3,Halloween,Cultural
+2014-11-01,10,1,3,Halloween,Cultural
+2014-11-02,9,2,3,Halloween,Cultural
+2014-11-03,8,3,3,Halloween,Cultural
+2014-11-04,7,4,3,Halloween,Cultural
+2014-11-05,6,5,3,Halloween,Cultural
+2014-11-06,5,6,1,VeteransDay,National
+2014-11-07,4,7,1,VeteransDay,National
+2014-11-08,3,8,1,VeteransDay,National
+2014-11-09,2,9,1,VeteransDay,National
+2014-11-10,1,10,1,VeteransDay,National
+2014-11-11,0,0,1,VeteransDay,National
+2014-11-12,14,1,1,VeteransDay,National
+2014-11-13,14,2,1,VeteransDay,National
+2014-11-14,13,3,1,VeteransDay,National
+2014-11-15,12,4,1,VeteransDay,National
+2014-11-16,11,5,1,VeteransDay,National
+2014-11-17,10,6,1,VeteransDay,National
+2014-11-18,9,7,1,VeteransDay,National
+2014-11-19,8,8,5,Thanksgiving,National
+2014-11-20,7,9,5,Thanksgiving,National
+2014-11-21,6,10,5,Thanksgiving,National
+2014-11-22,5,11,5,Thanksgiving,National
+2014-11-23,4,12,5,Thanksgiving,National
+2014-11-24,3,13,5,Thanksgiving,National
+2014-11-25,2,14,5,Thanksgiving,National
+2014-11-26,1,14,5,Thanksgiving,National
+2014-11-27,0,0,5,Thanksgiving,National
+2014-11-28,14,1,5,Thanksgiving,National
+2014-11-29,14,2,5,Thanksgiving,National
+2014-11-30,14,3,5,Thanksgiving,National
+2014-12-01,14,4,5,Thanksgiving,National
+2014-12-02,14,5,5,Thanksgiving,National
+2014-12-03,14,6,5,Thanksgiving,National
+2014-12-04,14,7,5,Thanksgiving,National
+2014-12-05,14,8,5,Thanksgiving,National
+2014-12-06,14,9,5,Thanksgiving,National
+2014-12-07,14,10,5,Thanksgiving,National
+2014-12-08,14,11,5,Thanksgiving,National
+2014-12-09,14,12,5,Thanksgiving,National
+2014-12-10,14,13,5,Thanksgiving,National
+2014-12-11,13,14,1,Chanukah End,Religious
+2014-12-12,12,14,1,Chanukah End,Religious
+2014-12-13,11,14,1,Chanukah End,Religious
+2014-12-14,10,14,1,Chanukah End,Religious
+2014-12-15,9,14,1,Chanukah End,Religious
+2014-12-16,8,14,1,Chanukah End,Religious
+2014-12-17,7,14,1,Chanukah End,Religious
+2014-12-18,6,14,1,Chanukah End,Religious
+2014-12-19,5,14,1,Chanukah End,Religious
+2014-12-20,4,14,1,Chanukah End,Religious
+2014-12-21,3,14,1,Chanukah End,Religious
+2014-12-22,2,14,1,Chanukah End,Religious
+2014-12-23,1,14,1,Chanukah End,Religious
+2014-12-24,0,0,1,Chanukah End,Religious
+2014-12-25,0,0,5,Christmas,National
+2014-12-26,6,1,5,Christmas,National
+2014-12-27,5,2,5,Christmas,National
+2014-12-28,4,3,5,Christmas,National
+2014-12-29,3,4,4,NewYear,National
+2014-12-30,2,5,4,NewYear,National
+2014-12-31,1,6,4,NewYear,National
+2015-01-01,0,0,4,NewYear,National
+2015-01-02,5,1,4,NewYear,National
+2015-01-03,4,2,4,NewYear,National
+2015-01-04,3,3,1,OrthodoxChristmas,Religious
+2015-01-05,2,4,1,OrthodoxChristmas,Religious
+2015-01-06,1,5,1,OrthodoxChristmas,Religious
+2015-01-07,0,0,1,OrthodoxChristmas,Religious
+2015-01-08,11,1,1,OrthodoxChristmas,Religious
+2015-01-09,10,2,1,OrthodoxChristmas,Religious
+2015-01-10,9,3,1,OrthodoxChristmas,Religious
+2015-01-11,8,4,1,OrthodoxChristmas,Religious
+2015-01-12,7,5,1,OrthodoxChristmas,Religious
+2015-01-13,6,6,1,MartinLutherKingDay,National
+2015-01-14,5,7,1,MartinLutherKingDay,National
+2015-01-15,4,8,1,MartinLutherKingDay,National
+2015-01-16,3,9,1,MartinLutherKingDay,National
+2015-01-17,2,10,1,MartinLutherKingDay,National
+2015-01-18,1,11,1,MartinLutherKingDay,National
+2015-01-19,0,0,1,MartinLutherKingDay,National
+2015-01-20,12,1,1,MartinLutherKingDay,National
+2015-01-21,11,2,1,MartinLutherKingDay,National
+2015-01-22,10,3,1,MartinLutherKingDay,National
+2015-01-23,9,4,1,MartinLutherKingDay,National
+2015-01-24,8,5,1,MartinLutherKingDay,National
+2015-01-25,7,6,1,MartinLutherKingDay,National
+2015-01-26,6,7,5,SuperBowl,Sporting
+2015-01-27,5,8,5,SuperBowl,Sporting
+2015-01-28,4,9,5,SuperBowl,Sporting
+2015-01-29,3,10,5,SuperBowl,Sporting
+2015-01-30,2,11,5,SuperBowl,Sporting
+2015-01-31,1,12,5,SuperBowl,Sporting
+2015-02-01,0,0,5,SuperBowl,Sporting
+2015-02-02,12,1,5,SuperBowl,Sporting
+2015-02-03,11,2,5,SuperBowl,Sporting
+2015-02-04,10,3,5,SuperBowl,Sporting
+2015-02-05,9,4,5,SuperBowl,Sporting
+2015-02-06,8,5,5,SuperBowl,Sporting
+2015-02-07,7,6,5,SuperBowl,Sporting
+2015-02-08,6,7,2,ValentinesDay,Cultural
+2015-02-09,5,8,2,ValentinesDay,Cultural
+2015-02-10,4,9,2,ValentinesDay,Cultural
+2015-02-11,3,10,2,ValentinesDay,Cultural
+2015-02-12,2,11,2,ValentinesDay,Cultural
+2015-02-13,1,12,2,ValentinesDay,Cultural
+2015-02-14,0,0,2,ValentinesDay,Cultural
+2015-02-15,1,1,2,PresidentsDay,National
+2015-02-16,0,0,2,PresidentsDay,National
+2015-02-17,1,1,2,LentStart,Religious
+2015-02-18,0,0,2,LentStart,Religious
+2015-02-19,6,1,2,LentStart,Religious
+2015-02-20,5,2,2,LentStart,Religious
+2015-02-21,4,3,2,LentStart,Religious
+2015-02-22,3,4,2,LentWeek2,Religious
+2015-02-23,2,5,2,LentWeek2,Religious
+2015-02-24,1,6,2,LentWeek2,Religious
+2015-02-25,0,0,2,LentWeek2,Religious
+2015-02-26,7,1,2,LentWeek2,Religious
+2015-02-27,6,2,2,LentWeek2,Religious
+2015-02-28,5,3,2,LentWeek2,Religious
+2015-03-01,4,4,1,Purim End,Religious
+2015-03-02,3,5,1,Purim End,Religious
+2015-03-03,2,6,1,Purim End,Religious
+2015-03-04,1,7,1,Purim End,Religious
+2015-03-05,0,0,1,Purim End,Religious
+2015-03-06,11,1,1,Purim End,Religious
+2015-03-07,10,2,1,Purim End,Religious
+2015-03-08,9,3,1,Purim End,Religious
+2015-03-09,8,4,1,Purim End,Religious
+2015-03-10,7,5,1,Purim End,Religious
+2015-03-11,6,6,3,StPatricksDay,Cultural
+2015-03-12,5,7,3,StPatricksDay,Cultural
+2015-03-13,4,8,3,StPatricksDay,Cultural
+2015-03-14,3,9,3,StPatricksDay,Cultural
+2015-03-15,2,10,3,StPatricksDay,Cultural
+2015-03-16,1,11,3,StPatricksDay,Cultural
+2015-03-17,0,0,3,StPatricksDay,Cultural
+2015-03-18,14,1,3,StPatricksDay,Cultural
+2015-03-19,14,2,3,StPatricksDay,Cultural
+2015-03-20,14,3,3,StPatricksDay,Cultural
+2015-03-21,14,4,3,StPatricksDay,Cultural
+2015-03-22,14,5,3,StPatricksDay,Cultural
+2015-03-23,13,6,3,StPatricksDay,Cultural
+2015-03-24,12,7,3,StPatricksDay,Cultural
+2015-03-25,11,8,3,StPatricksDay,Cultural
+2015-03-26,10,9,3,StPatricksDay,Cultural
+2015-03-27,9,10,3,Easter,Cultural
+2015-03-28,8,11,3,Easter,Cultural
+2015-03-29,7,12,3,Easter,Cultural
+2015-03-30,6,13,3,Easter,Cultural
+2015-03-31,5,14,3,Easter,Cultural
+2015-04-01,4,14,3,Easter,Cultural
+2015-04-02,3,14,3,Easter,Cultural
+2015-04-03,2,14,3,Easter,Cultural
+2015-04-04,1,14,3,Easter,Cultural
+2015-04-05,0,0,3,Easter,Cultural
+2015-04-06,5,1,3,Easter,Cultural
+2015-04-07,4,2,3,Easter,Cultural
+2015-04-08,3,3,2,Pesach End,Religious
+2015-04-09,2,4,2,Pesach End,Religious
+2015-04-10,1,5,2,Pesach End,Religious
+2015-04-11,0,0,2,Pesach End,Religious
+2015-04-12,0,0,2,OrthodoxEaster,Religious
+2015-04-13,14,1,2,OrthodoxEaster,Religious
+2015-04-14,14,2,2,OrthodoxEaster,Religious
+2015-04-15,14,3,2,OrthodoxEaster,Religious
+2015-04-16,14,4,2,OrthodoxEaster,Religious
+2015-04-17,14,5,2,OrthodoxEaster,Religious
+2015-04-18,14,6,2,OrthodoxEaster,Religious
+2015-04-19,14,7,2,OrthodoxEaster,Religious
+2015-04-20,14,8,2,OrthodoxEaster,Religious
+2015-04-21,14,9,2,OrthodoxEaster,Religious
+2015-04-22,13,10,2,OrthodoxEaster,Religious
+2015-04-23,12,11,2,OrthodoxEaster,Religious
+2015-04-24,11,12,2,Cinco De Mayo,Cultural
+2015-04-25,10,13,2,Cinco De Mayo,Cultural
+2015-04-26,9,14,2,Cinco De Mayo,Cultural
+2015-04-27,8,14,2,Cinco De Mayo,Cultural
+2015-04-28,7,14,2,Cinco De Mayo,Cultural
+2015-04-29,6,14,2,Cinco De Mayo,Cultural
+2015-04-30,5,14,2,Cinco De Mayo,Cultural
+2015-05-01,4,14,2,Cinco De Mayo,Cultural
+2015-05-02,3,14,2,Cinco De Mayo,Cultural
+2015-05-03,2,14,2,Cinco De Mayo,Cultural
+2015-05-04,1,14,2,Cinco De Mayo,Cultural
+2015-05-05,0,0,2,Cinco De Mayo,Cultural
+2015-05-06,4,1,2,Cinco De Mayo,Cultural
+2015-05-07,3,2,2,Cinco De Mayo,Cultural
+2015-05-08,2,3,3,Mother's day,Cultural
+2015-05-09,1,4,3,Mother's day,Cultural
+2015-05-10,0,0,3,Mother's day,Cultural
+2015-05-11,14,1,3,Mother's day,Cultural
+2015-05-12,13,2,3,Mother's day,Cultural
+2015-05-13,12,3,3,Mother's day,Cultural
+2015-05-14,11,4,3,Mother's day,Cultural
+2015-05-15,10,5,3,Mother's day,Cultural
+2015-05-16,9,6,3,Mother's day,Cultural
+2015-05-17,8,7,3,Mother's day,Cultural
+2015-05-18,7,8,4,MemorialDay,National
+2015-05-19,6,9,4,MemorialDay,National
+2015-05-20,5,10,4,MemorialDay,National
+2015-05-21,4,11,4,MemorialDay,National
+2015-05-22,3,12,4,MemorialDay,National
+2015-05-23,2,13,4,MemorialDay,National
+2015-05-24,1,14,4,MemorialDay,National
+2015-05-25,0,0,4,MemorialDay,National
+2015-05-26,9,1,4,MemorialDay,National
+2015-05-27,8,2,4,MemorialDay,National
+2015-05-28,7,3,4,MemorialDay,National
+2015-05-29,6,4,4,MemorialDay,National
+2015-05-30,5,5,3,NBAFinalsStart,Sporting
+2015-05-31,4,6,3,NBAFinalsStart,Sporting
+2015-06-01,3,7,3,NBAFinalsStart,Sporting
+2015-06-02,2,8,3,NBAFinalsStart,Sporting
+2015-06-03,1,9,3,NBAFinalsStart,Sporting
+2015-06-04,0,0,3,NBAFinalsStart,Sporting
+2015-06-05,11,1,3,NBAFinalsStart,Sporting
+2015-06-06,10,2,3,NBAFinalsStart,Sporting
+2015-06-07,9,3,3,NBAFinalsStart,Sporting
+2015-06-08,8,4,3,NBAFinalsStart,Sporting
+2015-06-09,7,5,3,NBAFinalsStart,Sporting
+2015-06-10,6,6,3,NBAFinalsEnd,Sporting
+2015-06-11,5,7,3,NBAFinalsEnd,Sporting
+2015-06-12,4,8,3,NBAFinalsEnd,Sporting
+2015-06-13,3,9,3,NBAFinalsEnd,Sporting
+2015-06-14,2,10,3,NBAFinalsEnd,Sporting
+2015-06-15,1,11,3,NBAFinalsEnd,Sporting
+2015-06-16,0,0,3,NBAFinalsEnd,Sporting
+2015-06-17,1,1,2,Ramadan starts,Religious
+2015-06-18,0,0,2,Ramadan starts,Religious
+2015-06-19,2,1,2,Ramadan starts,Religious
+2015-06-20,1,2,3,Father's day,Cultural
+2015-06-21,0,0,3,Father's day,Cultural
+2015-06-22,12,1,3,Father's day,Cultural
+2015-06-23,11,2,3,Father's day,Cultural
+2015-06-24,10,3,3,Father's day,Cultural
+2015-06-25,9,4,3,Father's day,Cultural
+2015-06-26,8,5,3,Father's day,Cultural
+2015-06-27,7,6,3,Father's day,Cultural
+2015-06-28,6,7,4,IndependenceDay,National
+2015-06-29,5,8,4,IndependenceDay,National
+2015-06-30,4,9,4,IndependenceDay,National
+2015-07-01,3,10,4,IndependenceDay,National
+2015-07-02,2,11,4,IndependenceDay,National
+2015-07-03,1,12,4,IndependenceDay,National
+2015-07-04,0,0,4,IndependenceDay,National
+2015-07-05,13,1,4,IndependenceDay,National
+2015-07-06,12,2,4,IndependenceDay,National
+2015-07-07,11,3,4,IndependenceDay,National
+2015-07-08,10,4,4,IndependenceDay,National
+2015-07-09,9,5,4,IndependenceDay,National
+2015-07-10,8,6,4,IndependenceDay,National
+2015-07-11,7,7,2,Eid al-Fitr,Religious
+2015-07-12,6,8,2,Eid al-Fitr,Religious
+2015-07-13,5,9,2,Eid al-Fitr,Religious
+2015-07-14,4,10,2,Eid al-Fitr,Religious
+2015-07-15,3,11,2,Eid al-Fitr,Religious
+2015-07-16,2,12,2,Eid al-Fitr,Religious
+2015-07-17,1,13,2,Eid al-Fitr,Religious
+2015-07-18,0,0,2,Eid al-Fitr,Religious
+2015-07-19,14,1,2,Eid al-Fitr,Religious
+2015-07-20,14,2,2,Eid al-Fitr,Religious
+2015-07-21,14,3,2,Eid al-Fitr,Religious
+2015-07-22,14,4,2,Eid al-Fitr,Religious
+2015-07-23,14,5,2,Eid al-Fitr,Religious
+2015-07-24,14,6,2,Eid al-Fitr,Religious
+2015-07-25,14,7,2,Eid al-Fitr,Religious
+2015-07-26,14,8,2,Eid al-Fitr,Religious
+2015-07-27,14,9,2,Eid al-Fitr,Religious
+2015-07-28,14,10,2,Eid al-Fitr,Religious
+2015-07-29,14,11,2,Eid al-Fitr,Religious
+2015-07-30,14,12,2,Eid al-Fitr,Religious
+2015-07-31,14,13,2,Eid al-Fitr,Religious
+2015-08-01,14,14,4,LaborDay,National
+2015-08-02,14,14,4,LaborDay,National
+2015-08-03,14,14,4,LaborDay,National
+2015-08-04,14,14,4,LaborDay,National
+2015-08-05,14,14,4,LaborDay,National
+2015-08-06,14,14,4,LaborDay,National
+2015-08-07,14,14,4,LaborDay,National
+2015-08-08,14,14,4,LaborDay,National
+2015-08-09,14,14,4,LaborDay,National
+2015-08-10,14,14,4,LaborDay,National
+2015-08-11,14,14,4,LaborDay,National
+2015-08-12,14,14,4,LaborDay,National
+2015-08-13,14,14,4,LaborDay,National
+2015-08-14,14,14,4,LaborDay,National
+2015-08-15,14,14,4,LaborDay,National
+2015-08-16,14,14,4,LaborDay,National
+2015-08-17,14,14,4,LaborDay,National
+2015-08-18,14,14,4,LaborDay,National
+2015-08-19,14,14,4,LaborDay,National
+2015-08-20,14,14,4,LaborDay,National
+2015-08-21,14,14,4,LaborDay,National
+2015-08-22,14,14,4,LaborDay,National
+2015-08-23,14,14,4,LaborDay,National
+2015-08-24,14,14,4,LaborDay,National
+2015-08-25,13,14,4,LaborDay,National
+2015-08-26,12,14,4,LaborDay,National
+2015-08-27,11,14,4,LaborDay,National
+2015-08-28,10,14,4,LaborDay,National
+2015-08-29,9,14,4,LaborDay,National
+2015-08-30,8,14,4,LaborDay,National
+2015-08-31,7,14,4,LaborDay,National
+2015-09-01,6,14,4,LaborDay,National
+2015-09-02,5,14,4,LaborDay,National
+2015-09-03,4,14,4,LaborDay,National
+2015-09-04,3,14,4,LaborDay,National
+2015-09-05,2,14,4,LaborDay,National
+2015-09-06,1,14,4,LaborDay,National
+2015-09-07,0,0,4,LaborDay,National
+2015-09-08,14,1,4,LaborDay,National
+2015-09-09,14,2,4,LaborDay,National
+2015-09-10,14,3,4,LaborDay,National
+2015-09-11,13,4,4,LaborDay,National
+2015-09-12,12,5,4,LaborDay,National
+2015-09-13,11,6,4,LaborDay,National
+2015-09-14,10,7,4,LaborDay,National
+2015-09-15,9,8,4,LaborDay,National
+2015-09-16,8,9,2,EidAlAdha,Religious
+2015-09-17,7,10,2,EidAlAdha,Religious
+2015-09-18,6,11,2,EidAlAdha,Religious
+2015-09-19,5,12,2,EidAlAdha,Religious
+2015-09-20,4,13,2,EidAlAdha,Religious
+2015-09-21,3,14,2,EidAlAdha,Religious
+2015-09-22,2,14,2,EidAlAdha,Religious
+2015-09-23,1,14,2,EidAlAdha,Religious
+2015-09-24,0,0,2,EidAlAdha,Religious
+2015-09-25,14,1,2,EidAlAdha,Religious
+2015-09-26,14,2,2,EidAlAdha,Religious
+2015-09-27,14,3,2,EidAlAdha,Religious
+2015-09-28,14,4,2,EidAlAdha,Religious
+2015-09-29,13,5,2,EidAlAdha,Religious
+2015-09-30,12,6,2,EidAlAdha,Religious
+2015-10-01,11,7,2,EidAlAdha,Religious
+2015-10-02,10,8,2,EidAlAdha,Religious
+2015-10-03,9,9,1,ColumbusDay,National
+2015-10-04,8,10,1,ColumbusDay,National
+2015-10-05,7,11,1,ColumbusDay,National
+2015-10-06,6,12,1,ColumbusDay,National
+2015-10-07,5,13,1,ColumbusDay,National
+2015-10-08,4,14,1,ColumbusDay,National
+2015-10-09,3,14,1,ColumbusDay,National
+2015-10-10,2,14,1,ColumbusDay,National
+2015-10-11,1,14,1,ColumbusDay,National
+2015-10-12,0,0,1,ColumbusDay,National
+2015-10-13,14,1,1,ColumbusDay,National
+2015-10-14,14,2,1,ColumbusDay,National
+2015-10-15,14,3,1,ColumbusDay,National
+2015-10-16,14,4,1,ColumbusDay,National
+2015-10-17,14,5,1,ColumbusDay,National
+2015-10-18,13,6,1,ColumbusDay,National
+2015-10-19,12,7,1,ColumbusDay,National
+2015-10-20,11,8,1,ColumbusDay,National
+2015-10-21,10,9,1,ColumbusDay,National
+2015-10-22,9,10,3,Halloween,Cultural
+2015-10-23,8,11,3,Halloween,Cultural
+2015-10-24,7,12,3,Halloween,Cultural
+2015-10-25,6,13,3,Halloween,Cultural
+2015-10-26,5,14,3,Halloween,Cultural
+2015-10-27,4,14,3,Halloween,Cultural
+2015-10-28,3,14,3,Halloween,Cultural
+2015-10-29,2,14,3,Halloween,Cultural
+2015-10-30,1,14,3,Halloween,Cultural
+2015-10-31,0,0,3,Halloween,Cultural
+2015-11-01,10,1,3,Halloween,Cultural
+2015-11-02,9,2,3,Halloween,Cultural
+2015-11-03,8,3,3,Halloween,Cultural
+2015-11-04,7,4,3,Halloween,Cultural
+2015-11-05,6,5,3,Halloween,Cultural
+2015-11-06,5,6,1,VeteransDay,National
+2015-11-07,4,7,1,VeteransDay,National
+2015-11-08,3,8,1,VeteransDay,National
+2015-11-09,2,9,1,VeteransDay,National
+2015-11-10,1,10,1,VeteransDay,National
+2015-11-11,0,0,1,VeteransDay,National
+2015-11-12,14,1,1,VeteransDay,National
+2015-11-13,13,2,1,VeteransDay,National
+2015-11-14,12,3,1,VeteransDay,National
+2015-11-15,11,4,1,VeteransDay,National
+2015-11-16,10,5,1,VeteransDay,National
+2015-11-17,9,6,1,VeteransDay,National
+2015-11-18,8,7,1,VeteransDay,National
+2015-11-19,7,8,5,Thanksgiving,National
+2015-11-20,6,9,5,Thanksgiving,National
+2015-11-21,5,10,5,Thanksgiving,National
+2015-11-22,4,11,5,Thanksgiving,National
+2015-11-23,3,12,5,Thanksgiving,National
+2015-11-24,2,13,5,Thanksgiving,National
+2015-11-25,1,14,5,Thanksgiving,National
+2015-11-26,0,0,5,Thanksgiving,National
+2015-11-27,14,1,5,Thanksgiving,National
+2015-11-28,14,2,5,Thanksgiving,National
+2015-11-29,14,3,5,Thanksgiving,National
+2015-11-30,14,4,5,Thanksgiving,National
+2015-12-01,13,5,5,Thanksgiving,National
+2015-12-02,12,6,5,Thanksgiving,National
+2015-12-03,11,7,5,Thanksgiving,National
+2015-12-04,10,8,5,Thanksgiving,National
+2015-12-05,9,9,1,Chanukah End,Religious
+2015-12-06,8,10,1,Chanukah End,Religious
+2015-12-07,7,11,1,Chanukah End,Religious
+2015-12-08,6,12,1,Chanukah End,Religious
+2015-12-09,5,13,1,Chanukah End,Religious
+2015-12-10,4,14,1,Chanukah End,Religious
+2015-12-11,3,14,1,Chanukah End,Religious
+2015-12-12,2,14,1,Chanukah End,Religious
+2015-12-13,1,14,1,Chanukah End,Religious
+2015-12-14,0,0,1,Chanukah End,Religious
+2015-12-15,10,1,1,Chanukah End,Religious
+2015-12-16,9,2,1,Chanukah End,Religious
+2015-12-17,8,3,1,Chanukah End,Religious
+2015-12-18,7,4,1,Chanukah End,Religious
+2015-12-19,6,5,1,Chanukah End,Religious
+2015-12-20,5,6,5,Christmas,National
+2015-12-21,4,7,5,Christmas,National
+2015-12-22,3,8,5,Christmas,National
+2015-12-23,2,9,5,Christmas,National
+2015-12-24,1,10,5,Christmas,National
+2015-12-25,0,0,5,Christmas,National
+2015-12-26,6,1,5,Christmas,National
+2015-12-27,5,2,5,Christmas,National
+2015-12-28,4,3,5,Christmas,National
+2015-12-29,3,4,4,NewYear,National
+2015-12-30,2,5,4,NewYear,National
+2015-12-31,1,6,4,NewYear,National
+2016-01-01,0,0,4,NewYear,National
+2016-01-02,5,1,4,NewYear,National
+2016-01-03,4,2,4,NewYear,National
+2016-01-04,3,3,1,OrthodoxChristmas,Religious
+2016-01-05,2,4,1,OrthodoxChristmas,Religious
+2016-01-06,1,5,1,OrthodoxChristmas,Religious
+2016-01-07,0,0,1,OrthodoxChristmas,Religious
+2016-01-08,10,1,1,OrthodoxChristmas,Religious
+2016-01-09,9,2,1,OrthodoxChristmas,Religious
+2016-01-10,8,3,1,OrthodoxChristmas,Religious
+2016-01-11,7,4,1,OrthodoxChristmas,Religious
+2016-01-12,6,5,1,OrthodoxChristmas,Religious
+2016-01-13,5,6,1,MartinLutherKingDay,National
+2016-01-14,4,7,1,MartinLutherKingDay,National
+2016-01-15,3,8,1,MartinLutherKingDay,National
+2016-01-16,2,9,1,MartinLutherKingDay,National
+2016-01-17,1,10,1,MartinLutherKingDay,National
+2016-01-18,0,0,1,MartinLutherKingDay,National
+2016-01-19,14,1,1,MartinLutherKingDay,National
+2016-01-20,14,2,1,MartinLutherKingDay,National
+2016-01-21,14,3,1,MartinLutherKingDay,National
+2016-01-22,14,4,1,MartinLutherKingDay,National
+2016-01-23,14,5,1,MartinLutherKingDay,National
+2016-01-24,14,6,1,MartinLutherKingDay,National
+2016-01-25,13,7,1,MartinLutherKingDay,National
+2016-01-26,12,8,1,MartinLutherKingDay,National
+2016-01-27,11,9,1,MartinLutherKingDay,National
+2016-01-28,10,10,5,SuperBowl,Sporting
+2016-01-29,9,11,5,SuperBowl,Sporting
+2016-01-30,8,12,5,SuperBowl,Sporting
+2016-01-31,7,13,5,SuperBowl,Sporting
+2016-02-01,6,14,5,SuperBowl,Sporting
+2016-02-02,5,14,5,SuperBowl,Sporting
+2016-02-03,4,14,5,SuperBowl,Sporting
+2016-02-04,3,14,5,SuperBowl,Sporting
+2016-02-05,2,14,5,SuperBowl,Sporting
+2016-02-06,1,14,5,SuperBowl,Sporting
+2016-02-07,0,0,5,SuperBowl,Sporting
+2016-02-08,2,1,5,SuperBowl,Sporting
+2016-02-09,1,2,2,LentStart,Religious
+2016-02-10,0,0,2,LentStart,Religious
+2016-02-11,3,1,2,LentStart,Religious
+2016-02-12,2,2,2,ValentinesDay,Cultural
+2016-02-13,1,3,2,ValentinesDay,Cultural
+2016-02-14,0,0,2,ValentinesDay,Cultural
+2016-02-15,0,0,2,PresidentsDay,National
+2016-02-16,1,1,2,LentWeek2,Religious
+2016-02-17,0,0,2,LentWeek2,Religious
+2016-02-18,14,1,2,LentWeek2,Religious
+2016-02-19,14,2,2,LentWeek2,Religious
+2016-02-20,14,3,2,LentWeek2,Religious
+2016-02-21,14,4,2,LentWeek2,Religious
+2016-02-22,14,5,2,LentWeek2,Religious
+2016-02-23,14,6,2,LentWeek2,Religious
+2016-02-24,14,7,2,LentWeek2,Religious
+2016-02-25,14,8,2,LentWeek2,Religious
+2016-02-26,14,9,2,LentWeek2,Religious
+2016-02-27,14,10,2,LentWeek2,Religious
+2016-02-28,14,11,2,LentWeek2,Religious
+2016-02-29,14,12,2,LentWeek2,Religious
+2016-03-01,14,13,2,LentWeek2,Religious
+2016-03-02,14,14,3,StPatricksDay,Cultural
+2016-03-03,14,14,3,StPatricksDay,Cultural
+2016-03-04,13,14,3,StPatricksDay,Cultural
+2016-03-05,12,14,3,StPatricksDay,Cultural
+2016-03-06,11,14,3,StPatricksDay,Cultural
+2016-03-07,10,14,3,StPatricksDay,Cultural
+2016-03-08,9,14,3,StPatricksDay,Cultural
+2016-03-09,8,14,3,StPatricksDay,Cultural
+2016-03-10,7,14,3,StPatricksDay,Cultural
+2016-03-11,6,14,3,StPatricksDay,Cultural
+2016-03-12,5,14,3,StPatricksDay,Cultural
+2016-03-13,4,14,3,StPatricksDay,Cultural
+2016-03-14,3,14,3,StPatricksDay,Cultural
+2016-03-15,2,14,3,StPatricksDay,Cultural
+2016-03-16,1,14,3,StPatricksDay,Cultural
+2016-03-17,0,0,3,StPatricksDay,Cultural
+2016-03-18,6,1,3,StPatricksDay,Cultural
+2016-03-19,5,2,3,StPatricksDay,Cultural
+2016-03-20,4,3,3,StPatricksDay,Cultural
+2016-03-21,3,4,1,Purim End,Religious
+2016-03-22,2,5,1,Purim End,Religious
+2016-03-23,1,6,1,Purim End,Religious
+2016-03-24,0,0,1,Purim End,Religious
+2016-03-25,2,1,1,Purim End,Religious
+2016-03-26,1,2,3,Easter,Cultural
+2016-03-27,0,0,3,Easter,Cultural
+2016-03-28,14,1,3,Easter,Cultural
+2016-03-29,14,2,3,Easter,Cultural
+2016-03-30,14,3,3,Easter,Cultural
+2016-03-31,14,4,3,Easter,Cultural
+2016-04-01,14,5,3,Easter,Cultural
+2016-04-02,14,6,3,Easter,Cultural
+2016-04-03,14,7,3,Easter,Cultural
+2016-04-04,14,8,3,Easter,Cultural
+2016-04-05,14,9,3,Easter,Cultural
+2016-04-06,14,10,3,Easter,Cultural
+2016-04-07,14,11,3,Easter,Cultural
+2016-04-08,14,12,3,Easter,Cultural
+2016-04-09,14,13,3,Easter,Cultural
+2016-04-10,14,14,2,Pesach End,Religious
+2016-04-11,14,14,2,Pesach End,Religious
+2016-04-12,14,14,2,Pesach End,Religious
+2016-04-13,14,14,2,Pesach End,Religious
+2016-04-14,14,14,2,Pesach End,Religious
+2016-04-15,14,14,2,Pesach End,Religious
+2016-04-16,14,14,2,Pesach End,Religious
+2016-04-17,13,14,2,Pesach End,Religious
+2016-04-18,12,14,2,Pesach End,Religious
+2016-04-19,11,14,2,Pesach End,Religious
+2016-04-20,10,14,2,Pesach End,Religious
+2016-04-21,9,14,2,Pesach End,Religious
+2016-04-22,8,14,2,Pesach End,Religious
+2016-04-23,7,14,2,Pesach End,Religious
+2016-04-24,6,14,2,Pesach End,Religious
+2016-04-25,5,14,2,Pesach End,Religious
+2016-04-26,4,14,2,Pesach End,Religious
+2016-04-27,3,14,2,Pesach End,Religious
+2016-04-28,2,14,2,Pesach End,Religious
+2016-04-29,1,14,2,Pesach End,Religious
+2016-04-30,0,0,2,Pesach End,Religious
+2016-05-01,0,0,2,OrthodoxEaster,Religious
+2016-05-02,3,1,2,OrthodoxEaster,Religious
+2016-05-03,2,2,2,Cinco De Mayo,Cultural
+2016-05-04,1,3,2,Cinco De Mayo,Cultural
+2016-05-05,0,0,2,Cinco De Mayo,Cultural
+2016-05-06,2,1,2,Cinco De Mayo,Cultural
+2016-05-07,1,2,3,Mother's day,Cultural
+2016-05-08,0,0,3,Mother's day,Cultural
+2016-05-09,14,1,3,Mother's day,Cultural
+2016-05-10,14,2,3,Mother's day,Cultural
+2016-05-11,14,3,3,Mother's day,Cultural
+2016-05-12,14,4,3,Mother's day,Cultural
+2016-05-13,14,5,3,Mother's day,Cultural
+2016-05-14,14,6,3,Mother's day,Cultural
+2016-05-15,14,7,3,Mother's day,Cultural
+2016-05-16,14,8,3,Mother's day,Cultural
+2016-05-17,13,9,3,Mother's day,Cultural
+2016-05-18,12,10,3,Mother's day,Cultural
+2016-05-19,11,11,4,MemorialDay,National
+2016-05-20,10,12,4,MemorialDay,National
+2016-05-21,9,13,4,MemorialDay,National
+2016-05-22,8,14,4,MemorialDay,National
+2016-05-23,7,14,4,MemorialDay,National
+2016-05-24,6,14,4,MemorialDay,National
+2016-05-25,5,14,4,MemorialDay,National
+2016-05-26,4,14,4,MemorialDay,National
+2016-05-27,3,14,4,MemorialDay,National
+2016-05-28,2,14,4,MemorialDay,National
+2016-05-29,1,14,4,MemorialDay,National
+2016-05-30,0,0,4,MemorialDay,National
+2016-05-31,2,1,4,MemorialDay,National
+2016-06-01,1,2,3,NBAFinalsStart,Sporting
+2016-06-02,0,0,3,NBAFinalsStart,Sporting
+2016-06-03,4,1,3,NBAFinalsStart,Sporting
+2016-06-04,3,2,3,NBAFinalsStart,Sporting
+2016-06-05,2,3,2,Ramadan starts,Religious
+2016-06-06,1,4,2,Ramadan starts,Religious
+2016-06-07,0,0,2,Ramadan starts,Religious
+2016-06-08,11,1,2,Ramadan starts,Religious
+2016-06-09,10,2,2,Ramadan starts,Religious
+2016-06-10,9,3,2,Ramadan starts,Religious
+2016-06-11,8,4,2,Ramadan starts,Religious
+2016-06-12,7,5,2,Ramadan starts,Religious
+2016-06-13,6,6,3,NBAFinalsEnd,Sporting
+2016-06-14,5,7,3,NBAFinalsEnd,Sporting
+2016-06-15,4,8,3,NBAFinalsEnd,Sporting
+2016-06-16,3,9,3,NBAFinalsEnd,Sporting
+2016-06-17,2,10,3,NBAFinalsEnd,Sporting
+2016-06-18,1,11,3,NBAFinalsEnd,Sporting
+2016-06-19,0,0,3,NBAFinalsEnd,Sporting
